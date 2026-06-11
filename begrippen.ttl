@@ -1,0 +1,166 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix skosthes: <http://purl.org/iso25964/skos-thes#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix eli: <http://data.europa.eu/eli/ontology#>  .
+
+@prefix wab: <http://bpm4mc2.org/wetsanalyse/>.
+
+wab:Bron a skos:Concept;
+  rdfs:label "Bron";
+  skos:definition "Een bron is een duurzaam toegankelijk document dat dient als grondslag of interpretatie van het gegeven recht";
+.
+
+wab:Fragment a skos:Concept;
+  rdfs:label "Fragment";
+  skos:definition "Een fragment is een onderscheidbaar onderdeel in een bron";
+  skos:related wab:Bron;
+.
+wab:FragmentBron a rdf:Statement;
+  rdfs:label "onderdeel van";
+  rdf:subject wab:Fragment;
+  rdf:predicate skos:related;
+  rdf:object wab:Bron;
+.
+
+wab:Tekstfragment a skos:Concept;
+  rdfs:label "Tekstfragment";
+  skos:definition "Een tekstfragment is een fragment dat volledig bestaat uit tekst";
+  skosthes:broaderGeneric wab:Fragment;
+.
+wab:TekstfragmentFragment a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Tekstfragment;
+  rdf:object wab:Fragment;
+  rdf:predicate skosthes:broaderGeneric;
+.
+
+wab:Bepaling a skos:Concept;
+  rdfs:label "Bepaling";
+  skos:definition "Een bepaling is een duiding van de regel die met een tekstfragment wordt gegeven";
+  skos:related wab:Tekstfragment;
+.
+wab:BepalingTekstfragment a rdf:Statement;
+  rdfs:label "op grond van";
+  rdf:subject wab:Bepaling;
+  rdf:object wab:Tekstfragment;
+  rdf:predicate skos:related;
+.
+
+wab:Handeling a skos:Concept;
+  rdfs:label "Handeling";
+  skos:definition "Een handeling is een gebeurtenis zoals die plaatsvindt in de werkelijkheid door toedoen van een actor en wordt genormeerd in een bepaling.";
+  skos:related wab:Bepaling;
+  skos:broaderGeneric wab:Gebeurtenis;
+.
+
+wab:Rechtshandeling a skos:Concept;
+  rdfs:label "Rechtshandeling";
+  skos:definition "Een rechtshandeling is een handeling met een beoogd rechtsgevolg";
+  skos:broaderGeneric wab:Handeling;
+.
+
+wab:Begripsbepaling a skos:Concept;
+  rdfs:label "Begripsbepaling";
+  skos:definition "Een begripsbepaling is een bepaling waarmee de betekenis van een begrip wordt gedefinieerd";
+  skos:related wab:Begrip;
+  skos:broaderGeneric wab:Bepaling;
+.
+wab:BegripsbepalingBepaling a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Begripsbepaling;
+  rdf:object wab:Bepaling;
+  rdf:predicate skos:broaderGeneric;
+.
+wab:BegripsbepalingBegrip a rdf:Statement;
+  rdfs:label "definieert";
+  rdf:subject wab:Begripsbepaling;
+  rdf:object wab:Begrip;
+  rdf:predicate skos:related;
+.
+
+wab:Begrip a skos:Concept;
+  rdfs:label "Begrip";
+  skos:definition "Een begrip is een eenheid van denken - een idee, de betekenis die begrepen moet worden met een term";
+.
+
+wab:Gedragsbepaling a skos:Concept;
+  rdfs:label "Gedragsbepaling";
+  skos:definition "Een gedragsbepaling is een bepaling waarmee een handeling wordt genormeert";
+  skos:broaderGeneric wab:Bepaling;
+  skos:related wab:Handeling;
+  skos:related wab:Norm;
+.
+wab:GedragsbepalingBepaling a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Gedragsbepaling;
+  rdf:object wab:Bepaling;
+  rdf:predicate skos:broaderGeneric;
+.
+wab:GedragsbepalingHandeling a rdf:Statement;
+  rdfs:label "normeert";
+  rdf:subject wab:Gedragsbepaling;
+  rdf:object wab:Handeling;
+  rdf:predicate skos:related;
+.
+
+wab:Voorwaarde a skos:Concept;
+  rdfs:label "Voorwaarde";
+  skos:definition "Een voorwaarde is een bepaling waarmee een beperking wordt gegeven aan een gedragsbepaling";
+  skos:broaderGeneric wab:Bepaling;
+  skos:related wab:Gedragsbepaling;
+.
+wab:VoorwaardeBepaling a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Voorwaarde;
+  rdf:object wab:Bepaling;
+  rdf:predicate skos:broaderGeneric;
+.
+
+wab:Norm a skos:Concept;
+  rdfs:label "Norm";
+  skos:definition "Een norm is een regel waarmee een handeling wordt gekwalificeerd";
+.
+
+wab:Verbod a skos:Concept;
+  rdfs:label "Verbod";
+  skos:definition "Een verbod is een norm waarmee een handeling wordt gekwalificeerd als onrechtmatig";
+  skos:broaderGeneric wab:Norm;
+.
+
+wab:Verplichting a skos:Concept;
+  rdfs:label "Verplichting";
+  skos:definition "Een verbod is een norm waarmee een handeling wordt gekwalificeerd als verplicht om te verrichten";
+  skos:broaderGeneric wab:Norm;
+.
+
+wab:Rechtschepping a skos:Concept;
+  rdfs:label "Rechtschepping";
+  skos:definition "Een rechtschepping is een norm waarmee het uitvoeren van een rechtshandeling mogelijk wordt gemaakt";
+  skos:broaderGeneric wab:Norm;
+.
+
+wab:Bevoegdheid a skos:Concept;
+  rdfs:label "Bevoegdheid";
+  skos:definition "Een bevoegdheid is een norm waarmee het uitvoeren van een handeling door een overheidsorgaan mogelijk wordt gemaakt";
+  skos:broaderGeneric wab:Norm;
+.
+
+wab:Vrijstelling a skos:Concept;
+  rdfs:label "Vrijstelling";
+  skos:definition "Een vrijstelling is een norm waarmee een normadressaat vrijgesteld wordt van een norm";
+  skos:broaderGeneric wab:Norm;
+.
+
+wab:Delegatie a skos:Concept;
+  rdfs:label "Delegatie";
+  skos:definition "Delegatie is een bevoegdheid waarmee in een algemeen verbindend voorschrift nadere regels kunnen worden gesteld";
+  skos:broaderGeneric wab:Bevoegdheid;
+.
+
+wab:Attributie a skos:Concept;
+  rdfs:label "Attributie";
+  skos:definition "Attributie is een bevoegdheid waarmee een bestuursorgaan nadere regels mag vaststellen";
+  skos:broaderGeneric wab:Bevoegdheid;
+.

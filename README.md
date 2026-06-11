@@ -8,11 +8,11 @@ Een modelleertaal om juridische regels mee te vormen.
 
 "Regelgeving" is een term waarmee juridische teksten worden aangeduid die voorschriften geven waar "we" ons aan moeten houden. Hieronder vallen onder meer (in Nederland): de wet in formele zin, algemene maatregelen van bestuur en ministeriële regelingen, maar ook lokale verordeningen en Europese verordeningen en richtlijnen. De regels zijn *gegeven*, ook wel het "positieve recht" genoemd: recht dat is geponeerd (vanuit het Engels: "positive law - law that is posited").
 
-Met "regelvorming" wordt iets vergelijkbaar bedoeld. De nadruk ligt nu echter niet op het feit dat de regels *gegeven* zijn (positief recht), maar juist zijn *gevormd*. Daarvoor is een model nodig: zodat we de regels kunnen vormen conform zo'n model.
+Met "regelvorming" wordt iets vergelijkbaar bedoeld. De nadruk ligt nu echter niet op het feit dat de regels *gegeven* zijn (positief recht), maar juist ook zijn *gevormd*. Daarvoor is een model, een mal, nodig: zodat we de regels kunnen vormen conform zo'n model.
 
-Regelvorming lijkt op wetsanalyse. Met regelvorming leggen we de nadruk dat het niet gaat om een *analyse*, maar juist over het *vormen* van regels. De vorm staat centraal, niet de analyse.
+Regelvorming lijkt op wetsanalyse. Met regelvorming leggen we de nadruk dat het niet gaat om een *analyse*, maar juist over het *vormen* van regels. De vorm staat centraal, niet de analyse. Regelvorming vindt idealiter dan ook plaats *voordat* de regelgeving ontstaat, als stap op weg naar de uiteindelijke tekst.
 
-Bij het opstellen van de modelleertaal beginnen we echter bij de basis, de bronnen waaruit het recht gegeven wordt. Maar als dit model is uitgelegd, dan is het prima mogelijk om met de taal die zo is ontstaan "andersom" te werken: juist bij het einde te beginnen, en een (nieuw) model op te stellen. Dan is er nog geen tekst, maar alleen een model. Met dit model in gedachten, kan de tekst dan worden opgesteld. Zo kunnen daadwerkelijk regels worden *gevormd* en niet (alleen) *gegeven* of *geanalyseerd*.
+Bij de uitleg van de modelleertaal in dit document beginnen we echter bij die tekst, de bronnen waaruit het recht gegeven wordt. We beginnen hiermee met wat sinds de drukpers een gegeven is waar we makkelijk aan voorbij gaan: dat het recht ons gegeven wordt in tekst. Maar als dit model is uitgelegd, dan is het prima mogelijk om met de taal die zo is ontstaan "andersom" te werken: juist bij het einde te beginnen, en een (nieuw) model op te stellen. Dan is er nog geen tekst, maar alleen een model. Met dit model in gedachten, kan de tekst dan worden opgesteld. Zo kunnen de regels daadwerkelijk worden *gevormd* en niet (alleen) *gegeven* of *geanalyseerd*.
 
 ## De basis: gegeven bronnen van recht
 
@@ -40,7 +40,7 @@ Een bron kun je hiërarchisch opbouwen. Zo bestaat een bron uit tekstfragmenten,
 
 Een bepaling is een tekstfragment waarmee een regel wordt gegeven. Een bepaling beschrijft *hoe* het tekstfragment moet worden gelezen. Het is dus niet zomaar een tekstfragment, maar beschrijft de regel die met het tekstfragment wordt uitgedrukt. Als je een tekstfragment maar klein genoeg maakt, dan zal een tekstfragment precies één bepaling betreffen. Maar soms worden de tekstfragmenten weer zo klein dat het moeilijk is om ze te onderscheiden. Dan is het makkelijker om een groter tekstfragment te kiezen, en te stellen dat er sprake is van meerdere bepalingen.
 
-> Een BEPALING is een duiding van de regel die met een tekstfragment wordt gegeven
+> Een BEPALING is een duiding van de regel die met een TEKSTFRAGMENT wordt gegeven
 
 Een bepaling kan zowel gerelateerd zijn aan een tekstfragment uit een grondslag-bron als uit een interpretatie-bron. De relatie verschilt echter wel! Een bepaling *betreft* precies één tekstfragment van een grondslag-bron en *volgt uit* (heeft rationale in) nul of meerdere tekstfragmenten van interpretatie-bronnen.
 
