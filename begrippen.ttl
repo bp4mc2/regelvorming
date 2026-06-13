@@ -50,28 +50,56 @@ wab:BepalingTekstfragment a rdf:Statement;
 
 wab:Handeling a skos:Concept;
   rdfs:label "Handeling";
-  skos:definition "Een handeling is een gebeurtenis zoals die plaatsvindt in de werkelijkheid door toedoen van een actor en wordt genormeerd in een bepaling.";
-  skos:related wab:Bepaling;
-  skos:broaderGeneric wab:Gebeurtenis;
+  skos:definition "Een handeling is een gebeurtenis zoals die plaatsvindt in de werkelijkheid door toedoen van een actor";
+  skosthes:broaderGeneric wab:Gebeurtenis;
+  skos:related wab:Actor;
+.
+wab:HandelingGebeurtenis a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Handeling;
+  rdf:object wab:Gebeurtenis;
+  rdf:predicate skosthes:broaderGeneric;
+.
+
+wab:Gebeurtenis a skos:Concept;
+  rdfs:label "Gebeurtenis";
+  skos:definition "Een gebeurtenis is een fenomeen dat plaatsvindt in de werkelijkheid";
+.
+
+wab:Omstandigheid a skos:Concept;
+  rdfs:label "Omstandigheid";
+  skos:definition "Een omstandigheid is een feitelijke of juridische toestand van een persoon of object";
+.
+
+wab:Actor a skos:Concept;
+  rdfs:label "Actor";
+  skos:definition "Een persoon die iets doet";
+  skos:scopeNote "Indien sprake is van een rechtshandeling, dan betreft dit een natuurlijk persoon of rechtspersoon";
 .
 
 wab:Rechtshandeling a skos:Concept;
   rdfs:label "Rechtshandeling";
   skos:definition "Een rechtshandeling is een handeling met een beoogd rechtsgevolg";
-  skos:broaderGeneric wab:Handeling;
+  skosthes:broaderGeneric wab:Handeling;
+.
+wab:RechtshandelingHandeling a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Rechtshandeling;
+  rdf:object wab:Handeling;
+  rdf:predicate skosthes:broaderGeneric;
 .
 
 wab:Begripsbepaling a skos:Concept;
   rdfs:label "Begripsbepaling";
   skos:definition "Een begripsbepaling is een bepaling waarmee de betekenis van een begrip wordt gedefinieerd";
   skos:related wab:Begrip;
-  skos:broaderGeneric wab:Bepaling;
+  skosthes:broaderGeneric wab:Bepaling;
 .
 wab:BegripsbepalingBepaling a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Begripsbepaling;
   rdf:object wab:Bepaling;
-  rdf:predicate skos:broaderGeneric;
+  rdf:predicate skosthes:broaderGeneric;
 .
 wab:BegripsbepalingBegrip a rdf:Statement;
   rdfs:label "definieert";
@@ -85,18 +113,43 @@ wab:Begrip a skos:Concept;
   skos:definition "Een begrip is een eenheid van denken - een idee, de betekenis die begrepen moet worden met een term";
 .
 
+wab:Normbepaling a skos:Concept;
+  rdfs:label "Normbepaling";
+  skos:definition "Een normbepaling is een bepaling waarmee een rechtsgevolg wordt verbonden aan een rechtsfeit";
+  skosthes:broaderGeneric wab:Bepaling;
+.
+wab:NormbepalingBepaling a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Normbepaling;
+  rdf:object wab:Bepaling;
+  rdf:predicate skosthes:broaderGeneric;
+.
+
+# Deze nog even goed bekijken: want deze zou los moeten staan van de gedragsbepaling. Het zou dus niet "gedrag" moeten normeren. Maar is het dan altijd een gebeurtenis of omstandigheid??
+wab:RechtswegeBepaling a skos:Concept;
+  rdfs:label "Rechtswege-bepaling";
+  skos:definition "Een rechtswege-bepaling is een normbepaling waarmee van rechtswege een rechtsfeit optreedt";
+  skosthes:broaderGeneric wab:Normbepaling;
+.
+wab:RechtswegeBepalingNormbepaling a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:RechtswegeBepaling;
+  rdf:object wab:Normbepaling;
+  rdf:predicate skosthes:broaderGeneric;
+.
+
 wab:Gedragsbepaling a skos:Concept;
   rdfs:label "Gedragsbepaling";
-  skos:definition "Een gedragsbepaling is een bepaling waarmee een handeling wordt genormeert";
-  skos:broaderGeneric wab:Bepaling;
+  skos:definition "Een gedragsbepaling is een normbepaling waarmee een handeling wordt genormeert";
+  skosthes:broaderGeneric wab:Normbepaling;
   skos:related wab:Handeling;
-  skos:related wab:Norm;
+  skos:related wab:Gedragsnorm;
 .
-wab:GedragsbepalingBepaling a rdf:Statement;
+wab:GedragsbepalingNormbepaling a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Gedragsbepaling;
-  rdf:object wab:Bepaling;
-  rdf:predicate skos:broaderGeneric;
+  rdf:object wab:Normbepaling;
+  rdf:predicate skosthes:broaderGeneric;
 .
 wab:GedragsbepalingHandeling a rdf:Statement;
   rdfs:label "normeert";
@@ -108,59 +161,206 @@ wab:GedragsbepalingHandeling a rdf:Statement;
 wab:Voorwaarde a skos:Concept;
   rdfs:label "Voorwaarde";
   skos:definition "Een voorwaarde is een bepaling waarmee een beperking wordt gegeven aan een gedragsbepaling";
-  skos:broaderGeneric wab:Bepaling;
+  skosthes:broaderGeneric wab:Bepaling;
   skos:related wab:Gedragsbepaling;
 .
 wab:VoorwaardeBepaling a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Voorwaarde;
   rdf:object wab:Bepaling;
-  rdf:predicate skos:broaderGeneric;
+  rdf:predicate skosthes:broaderGeneric;
+.
+wab:VoorwaardeGedragsbepaling a rdf:Statement;
+  rdfs:label "beperkt";
+  rdf:subject wab:Voorwaarde;
+  rdf:object wab:Gedragsbepaling;
+  rdf:predicate skosthes:broaderGeneric;
 .
 
 wab:Norm a skos:Concept;
   rdfs:label "Norm";
-  skos:definition "Een norm is een regel waarmee een handeling wordt gekwalificeerd";
+  skos:definition "Een norm is een regel waarmee het objectieve recht rechtsgevolgen verbindt aan een rechtsfeit";
+  skos:related wab:Rechtsfeit;
+  skos:related wab:Rechtsgevolg;
+.
+wab:NormRechtsgevolg a rdf:Statement;
+  rdfs:label "verbindt";
+  rdf:subject wab:Norm;
+  rdf:object wab:Rechtsgevolg;
+  rdf:predicate skos:related;
+.
+wab:NormRechtsfeit a rdf:Statement;
+  rdfs:label "aan";
+  rdf:subject wab:Norm;
+  rdf:object wab:Rechtsfeit;
+  rdf:predicate skos:related;
+.
+
+wab:Rechtsfeit a skos:Concept;
+  rdfs:label "Rechtsfeit";
+  skos:definition "Een rechtsfeit is een gebeurtenis, omstandigheid of handeling waaraan het objectieve recht rechtsgevolgen verbindt";
+  skosthes:narrowerGeneric wab:Gebeurtenis, wab:Omstandigheid, wab:Handeling;
+.
+wab:RechtsfeitGebeurtenis a rdf:Statement;
+  rdfs:label "kan zijn";
+  rdf:subject wab:Rechtsfeit;
+  rdf:object wab:Gebeurtenis;
+  rdf:predicate skosthes:narrowerGeneric;
+.
+wab:RechtsfeitHandeling a rdf:Statement;
+  rdfs:label "kan zijn";
+  rdf:subject wab:Rechtsfeit;
+  rdf:object wab:Handeling;
+  rdf:predicate skosthes:narrowerGeneric;
+.
+wab:RechtsfeitOmstandigheid a rdf:Statement;
+  rdfs:label "kan zijn";
+  rdf:subject wab:Rechtsfeit;
+  rdf:object wab:Omstandigheid;
+  rdf:predicate skosthes:narrowerGeneric;
+.
+
+wab:Rechtsgevolg a skos:Concept;
+  rdfs:label "Rechtsgevolg";
+  skos:definition "Een rechtsgevolg is het ontstaan, verdwijnen, veranderen of bevestigen van een subjectief recht: een rechtspositie of rechtsbetrekking";
+  skos:related wab:Rechtspositie, wab:Rechtsbetrekking;
+.
+wab:RechtsgevolgRechtspositie a rdf:Statement;
+  rdfs:label "gevolg";
+  rdf:subject wab:Rechtsgevolg;
+  rdf:object wab:Rechtspositie;
+  rdf:predicate skos:related;
+.
+wab:RechtsgevolgRechtsbetrekking a rdf:Statement;
+  rdfs:label "gevolg";
+  rdf:subject wab:Rechtsgevolg;
+  rdf:object wab:Rechtsbetrekking;
+  rdf:predicate skos:related;
+.
+
+wab:Rechtspositie a skos:Concept;
+  rdfs:label "Rechtspositie";
+  skos:definition "Een rechtspositie is een juridische omstandigheid waaruit rechten en plichten voortvloeien";
+.
+
+# Hier nog specialisaties van maken: want je hebt binaire rechtsbetrekkingen, en rechtsbetrekking waarbij 1 van de partijen in beginsel "iedereen" is...
+wab:Rechtsbetrekking a skos:Concept;
+  rdfs:label "Rechtsbetrekking";
+  skos:definition "Een rechtsbetrekking is een verbintenis tussen een rechthebbende en een plichtdragende";
+.
+
+wab:Gedragsnorm a skos:Concept;
+  rdfs:label "Gedragsnorm";
+  skos:definition "Een gedragsnorm is een norm waarmee een handeling wordt gekwalificeerd";
+  skosthes:broaderGeneric wab:Norm;
+.
+wab:GedragsnormNorm a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Gedragsnorm;
+  rdf:object wab:Norm;
+  rdf:predicate skosthes:broaderGeneric;
+.
+
+wab:Normadressaat a skos:Concept;
+  rdfs:label "Normadressaat";
+  skos:definition "Een normadressaat is een actor waartoe een norm zich richt";
+  skosthes:broaderGeneric wab:Actor;
+  skos:related wab:Gedragsnorm;
+.
+wab:NormadressaatActor a rdf:Statment;
+  rdfs:label "is een";
+  rdf:subject wab:Normadressaat;
+  rdf:object wab:Actor;
+  rdf:predicate skosthes:broaderGeneric;
 .
 
 wab:Verbod a skos:Concept;
   rdfs:label "Verbod";
   skos:definition "Een verbod is een norm waarmee een handeling wordt gekwalificeerd als onrechtmatig";
-  skos:broaderGeneric wab:Norm;
+  skosthes:broaderGeneric wab:Gedragsnorm;
+.
+wab:VerbodNorm a rdf:Statment;
+  rdfs:label "is een";
+  rdf:subject wab:Verbod;
+  rdf:object wab:Gedragsnorm;
+  rdf:predicate skosthes:broaderGeneric;
 .
 
 wab:Verplichting a skos:Concept;
   rdfs:label "Verplichting";
   skos:definition "Een verbod is een norm waarmee een handeling wordt gekwalificeerd als verplicht om te verrichten";
-  skos:broaderGeneric wab:Norm;
+  skosthes:broaderGeneric wab:Gedragsnorm;
+.
+wab:VerplichtingNorm a rdf:Statment;
+  rdfs:label "is een";
+  rdf:subject wab:Verplichting;
+  rdf:object wab:Gedragsnorm;
+  rdf:predicate skosthes:broaderGeneric;
 .
 
 wab:Rechtschepping a skos:Concept;
   rdfs:label "Rechtschepping";
   skos:definition "Een rechtschepping is een norm waarmee het uitvoeren van een rechtshandeling mogelijk wordt gemaakt";
-  skos:broaderGeneric wab:Norm;
+  skosthes:broaderGeneric wab:Gedragsnorm;
+.
+wab:RechtscheppingNorm a rdf:Statment;
+  rdfs:label "is een";
+  rdf:subject wab:Rechtschepping;
+  rdf:object wab:Gedragsnorm;
+  rdf:predicate skosthes:broaderGeneric;
 .
 
 wab:Bevoegdheid a skos:Concept;
   rdfs:label "Bevoegdheid";
   skos:definition "Een bevoegdheid is een norm waarmee het uitvoeren van een handeling door een overheidsorgaan mogelijk wordt gemaakt";
-  skos:broaderGeneric wab:Norm;
+  skosthes:broaderGeneric wab:Gedragsnorm;
+.
+wab:BevoegdheidNorm a rdf:Statment;
+  rdfs:label "is een";
+  rdf:subject wab:Bevoegdheid;
+  rdf:object wab:Gedragsnorm;
+  rdf:predicate skosthes:broaderGeneric;
 .
 
 wab:Vrijstelling a skos:Concept;
   rdfs:label "Vrijstelling";
   skos:definition "Een vrijstelling is een norm waarmee een normadressaat vrijgesteld wordt van een norm";
-  skos:broaderGeneric wab:Norm;
+  skosthes:broaderGeneric wab:Gedragsnorm;
+  skos:related wab:Gedragsnorm;
+.
+wab:VrijstellingISANorm a rdf:Statment;
+  rdfs:label "is een";
+  rdf:subject wab:Vrijstelling;
+  rdf:object wab:Gedragsnorm;
+  rdf:predicate skosthes:broaderGeneric;
+.
+wab:VrijstellingNorm a rdf:Statement;
+  rdfs:label "betreft";
+  rdf:subject wab:Vrijstelling;
+  rdf:object wab:Gedragsnorm;
+  rdf:predicate skos:related;
 .
 
 wab:Delegatie a skos:Concept;
   rdfs:label "Delegatie";
   skos:definition "Delegatie is een bevoegdheid waarmee in een algemeen verbindend voorschrift nadere regels kunnen worden gesteld";
-  skos:broaderGeneric wab:Bevoegdheid;
+  skosthes:broaderGeneric wab:Bevoegdheid;
+.
+wab:DelegatieBevoegdheid a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Delegatie;
+  rdf:object wab:Bevoegdheid;
+  rdf:predicate skosthes:broaderGeneric;
 .
 
 wab:Attributie a skos:Concept;
   rdfs:label "Attributie";
-  skos:definition "Attributie is een bevoegdheid waarmee een bestuursorgaan nadere regels mag vaststellen";
-  skos:broaderGeneric wab:Bevoegdheid;
+  skos:definition "Attributie is een bevoegdheid waarmee een bestuursorgaan nadere regels mag vaststellen, niet zijnde algemeen verbindende voorschriften";
+  skosthes:broaderGeneric wab:Bevoegdheid;
+.
+wab:AttributieBevoegdheid a rdf:Statement;
+  rdfs:label "is een";
+  rdf:subject wab:Attributie;
+  rdf:object wab:Bevoegdheid;
+  rdf:predicate skosthes:broaderGeneric;
 .
