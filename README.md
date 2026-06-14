@@ -12,7 +12,7 @@ Met "regelvorming" wordt iets vergelijkbaar bedoeld. De nadruk ligt nu echter ni
 
 Regelvorming lijkt op wetsanalyse. Met regelvorming leggen we de nadruk dat het niet gaat om een *analyse*, maar juist over het *vormen* van regels. De vorm staat centraal, niet de analyse. Regelvorming vindt idealiter dan ook plaats *voordat* de regelgeving ontstaat, als stap op weg naar de uiteindelijke tekst.
 
-Bij de uitleg van de modelleertaal in dit document beginnen we echter bij die tekst, de bronnen waaruit het recht gegeven wordt. We beginnen hiermee met wat sinds de drukpers een gegeven is waar we makkelijk aan voorbij gaan: dat het recht ons gegeven wordt in tekst. Maar als dit model is uitgelegd, dan is het prima mogelijk om met de taal die zo is ontstaan "andersom" te werken: juist bij het einde te beginnen, en een (nieuw) model op te stellen. Dan is er nog geen tekst, maar alleen een model. Met dit model in gedachten, kan de tekst dan worden opgesteld. Zo kunnen de regels daadwerkelijk worden *gevormd* en niet (alleen) *gegeven* of *geanalyseerd*.
+Bij de uitleg van de modelleertaal in dit document beginnen we echter bij die tekst, de bronnen waaruit het recht gegeven wordt. We beginnen hiermee met wat sinds de drukpers een gegeven is waar we makkelijk aan voorbij gaan: dat het recht ons gegeven wordt in tekst. Maar als dit model is uitgelegd, dan is het prima mogelijk om met de taal die zo is ontstaan "andersom" te werken: juist bij het einde te beginnen, en een (nieuw) model op te stellen. Dan is er nog geen tekst, maar alleen een model. Met dit model in gedachten, kan de tekst dan worden opgesteld. Zo kunnen de regels daadwerkelijk worden *gevormd* en niet (alleen) worden *gegeven* of *geanalyseerd*.
 
 ## De basis: gegeven bronnen van recht
 
@@ -20,7 +20,7 @@ De basis van regelvorming vloeit voort uit de gegeven regels. We noemen dit een 
 
 > Een BRON is een duurzaam toegankelijk document dat dient als grondslag of interpretatie van het gegeven recht
 
-- Een «bron» is een document. We hadden hier ook de term "informatieobject" kunnen gebruiken, om aan te sluiten bij het RMO/DUTO/MDTO. Voor de leesbaarheid is gekozen voor het eenvoudigere woord "document". We bedoelen hetzelfde. Een document kan dus zowel een fysiek stuk papier zijn, een digitale representatie daarvan of een geheel van gegevens die alleen in digitale vorm beschikbaar wordt gesteld.
+- Een «bron» is een document. We hadden hier ook de term "informatieobject" kunnen gebruiken om aan te sluiten bij het RMO/DUTO/MDTO. Voor de leesbaarheid is gekozen voor het eenvoudigere woord "document". We bedoelen hetzelfde. Een document kan dus zowel een fysiek stuk papier zijn, een digitale representatie daarvan of een geheel van gegevens die alleen in digitale vorm beschikbaar wordt gesteld.
 - Een «bron» is duurzaam toegankelijk. Een bron is dus niet alleen gegeven, maar ook nog eens voor langere tijd toegankelijk en bovendien op een duurzame manier: je kunt een bron door de tijd heen raadplegen, waarbij steeds hetzelfde wordt gegeven.
 - Een «bron» is een grondslag of interpretatie van het gegeven recht. Zo is een wet in formele zin een grondslag voor het gegeven recht, terwijl de memorie van toelichting bij die wet bruikbaar is voor de interpretatie, het biedt op zichzelf geen grondslag voor het gegeven recht.
 
@@ -36,11 +36,17 @@ Voor regelvorming ligt de nadruk op tekstfragmenten: fragmenten die bestaan uit 
 
 Een bron kun je hiërarchisch opbouwen. Zo bestaat een bron uit tekstfragmenten, die zelf weer uit tekstfragmenten kunnen bestaan. Daarnaast kunnen tekstfragmenten ook verwijzen naar andere tekstfragmenten. Waar dit in webpagina's wordt gedaan door middel van hyperlinks, kennen juridische teksten vaak specifieke standaarden om tekstueel te kunnen verwijzen. Bijvoorbeeld: "Artikel 1:3 lid 1 Awb".
 
+> Een BRONVERWIJZING is een verwijzing naar een FRAGMENT zoals deze in een bron is gegeven
+
+Merk op dat een bronverwijzing daarwerkelijk in de tekst voor moet komen. Een bronverwijzing volgt (dus) niet uit een interpretatie, maar expliciet in de bron te vinden.
+
 ## Een stapje dieper: bepalingen
 
-Een bepaling is een tekstfragment waarmee een regel wordt gegeven. Een bepaling beschrijft *hoe* het tekstfragment moet worden gelezen. Het is dus niet zomaar een tekstfragment, maar beschrijft de regel die met het tekstfragment wordt uitgedrukt. Als je een tekstfragment maar klein genoeg maakt, dan zal een tekstfragment precies één bepaling betreffen. Maar soms worden de tekstfragmenten weer zo klein dat het moeilijk is om ze te onderscheiden. Dan is het makkelijker om een groter tekstfragment te kiezen, en te stellen dat er sprake is van meerdere bepalingen.
+Een bepaling is een tekstfragment waarmee een regel wordt geduid. Een bepaling beschrijft *hoe* het tekstfragment moet worden gelezen. Het is dus niet zomaar een tekstfragment, maar beschrijft de regel die met het tekstfragment wordt uitgedrukt. Als je een tekstfragment maar klein genoeg maakt, dan zal een tekstfragment precies één bepaling betreffen. Maar soms worden de tekstfragmenten weer zo klein dat het moeilijk is om ze te onderscheiden. Dan is het makkelijker om een groter tekstfragment te kiezen, en te stellen dat er sprake is van meerdere bepalingen.
 
 > Een BEPALING is een duiding van de regel die met een TEKSTFRAGMENT wordt gegeven
+
+Merk op dat een bepaling niet is *gegeven*: slechts de tekst is in de bron gegeven. Om tot de bepaling te komen is *interpretatie*, *duiding* nodig van de tekst. Dat betekent dat hierover discussie mogelijk is, en dat de vastlegging van bepalingen zelf een interpretatiebron betreft.
 
 Een bepaling kan zowel gerelateerd zijn aan een tekstfragment uit een grondslag-bron als uit een interpretatie-bron. De relatie verschilt echter wel! Een bepaling *betreft* precies één tekstfragment van een grondslag-bron en *volgt uit* (heeft rationale in) nul of meerdere tekstfragmenten van interpretatie-bronnen.
 
@@ -52,35 +58,38 @@ Bepalingen kunnen zowel gedragsregels betreffen (regels die ons gedrag normeren)
 - Een VERPLICHTING betreft een tekstfragment waarmee een rechtssubject (natuurlijk persoon of rechtspersoon) de plicht krijgt om een bepaalde (rechts)handeling uit te voeren.
 - Een VRIJSTELLING betreft een tekstfragment waarmee een rechtssubject (natuurlijk persoon of rechtspersoon) wordt vrijgesteld van een verplichting of verbod.
 
-Bevoegdheden zijn voorbehouden aan bestuursorganen. Dat komt omdat de overheid in beginsel niks mag, tenzij het daartoe bevoegd is. Dus al die bevoegdheden moeten gevormd worden. Dit geldt niet voor natuurlijke personen en de overige rechtspersonen: die mogen in beginsel alles, tenzij het verboden is. Wel geldt dat er soms extra rechten nodig zijn om bepaalde rechtshandelingen te mogen uitvoeren. Zo regelt de kieswet wie het recht hebben om te mogen stemmen, daarvoor is dus een rechtscheppende bepaling nodig.
+Merk op: deze onderverdeling is gerelateerd aan de indeling die Hohfeld heeft gemaakt van rechten en plichten. Echter, waar Hohfeld ingaat op de indeling van *subjectieve rechten*, betreft bovenstaande indeling een ordening van *objectieve rechten*. Zie ook verderop dit document.
+
+Bevoegdheden zijn voorbehouden aan bestuursorganen. Dat komt omdat de overheid in beginsel niks mag, tenzij het daartoe bevoegd is. Dus al die bevoegdheden moeten worden gevormd. Dit geldt niet voor natuurlijke personen en de overige rechtspersonen: die mogen in beginsel alles, tenzij het verboden is. Wel geldt dat er soms extra rechten nodig zijn om bepaalde rechtshandelingen te mogen uitvoeren. Zo regelt de kieswet wie het recht hebben om te mogen stemmen, daarvoor is dus een rechtscheppende bepaling nodig.
 
 Ook het maken van regels zelf is een handeling. Er zijn twee specifieke gedragsbepalingen te vinden die gaan over het maken van regels:
 - Een DELEGATIE betreft een tekstfragment waarmee een bevoegdheid wordt gegeven om nadere regels te stellen in onderliggende algemeen verbindende voorschriften. Kenmerkend is (vaak) het gebruik van tekstfragmenten als "Bij ministeriële regeling..." of "Bij algemene maatregel van bestuur..." of "Bij of krachtens...".
 - Een ATTRIBUTIE betreft een tekstfragment waarmee een bevoegdheid wordt gegeven aan een bestuursorgaan om een specifieke invulling te geven aan regels, bijvoorbeeld het gebruik maken van een formulier. Van belang is dat het gaat om een bevoegdheid die er eerder nog niet was en dat niet expliciet is vermeld dat het in lagere regelgeving moet worden geregeld (zoals bij delegatie). Attributie heeft altijd betrekking op een bestuursorgaan, terwijl bij delegatie vaak alleen wordt aangegeven om welke lagere regelgeving het gaat.
 
-> ![NOTE]
-> We sluiten hierbij aan op de definitie van een algemeen verbindend voorschrift zoals in Aanwijzing 2.17. We beperken de term "delegatie" hier tot delegeren van bevoegdheid tot stellen van algemeen verbindende voorschriften. Andere regels worden daarbij als attributie gezien, hoewel ook dit als delegatie kan worden gezien. Wellicht zou je ook kunnen kiezen om beide delegatie te noemen, om vervolgens dan eerstgenoemde te specialiseren naar "AVV-Delegatie".
+> [!NOTE]
+> We sluiten hierbij aan op de definitie van een algemeen verbindend voorschrift zoals in Aanwijzing 2.17. We beperken de term "delegatie" hier tot delegeren van bevoegdheid tot stellen van algemeen verbindende voorschriften. Andere regels worden daarbij als attributie gezien, hoewel de term "delegatie" ook breder wordt beschouwd. Wellicht zou je ook kunnen kiezen om beide delegatie te noemen, om vervolgens dan eerstgenoemde te specialiseren naar "AVV-Delegatie".
 
 Delegatie- en attributiebepalingen kunnen ook een verplichting omvatten. Zo betreft de tekst "Bij of krachtens AmvB *kunnen*" slechts een (optionele) delegatiebepaling, terwijl "Bij of krachtens AmVB *worden*" een verplichtende delegatiebepaling.
 
 Naast bovenstaande soorten bepalingen zijn er nog enkele andere ondersteunde bepalingen te vinden. Deze bepalingen normeren geen gedrag, maar ondersteunen andere bepalingen die dat wel doen:
 
-- Een BEGRIP betreft een tekstfragment waarmee de betekenis van een begrip wordt gedefinieerd. Zo'n tekstfragment bevat vaak de term waarmee het begrip wordt aangeduid en de definitie van dit begrip. Vaak bevat Artikel 1 dergelijke definitie-bepalingen, maar ook verderop in een bron kunnen begripsbepalingen voorkomen. Als de term vervolgens wordt gebruikt in een andere bepaling, dan wordt dit begrip verondersteld.
+- Een BEGRIPSBEPALING betreft een tekstfragment waarmee de betekenis van een begrip wordt gedefinieerd. Zo'n tekstfragment bevat vaak de term waarmee het begrip wordt aangeduid en de definitie van dit begrip. Vaak bevat Artikel 1 dergelijke definitie-bepalingen, maar ook verderop in een bron kunnen begripsbepalingen voorkomen. Als de term vervolgens wordt gebruikt in een andere bepaling, dan wordt dit begrip verondersteld.
 - Een VOORWAARDE betreft een tekstfragment waarmee een voorwaarde wordt gesteld aan een gedragsbepaling. Zo is alleen sprake van een verbod onder specifieke voorwaarden, of mag een bevoegdheid alleen uitoefend worden onder specifieke voorwaarden. Zo'n voorwaarde stelt sprake moet zijn van bepaalde omstandigheden, gebeurtenissen of handelingen.
 
 Tenslotte zijn er bepalingen die niet zozeer gedrag normeren, maar wel direct ("van rechtwege") gevolgen verbinden aan een bepaalde handeling, gebeurtenis of omstandigheid.
 
-- Een RECHTSGEVOLG betreft een tekstfragment waarmee van rechtswege een rechtsgevolg wordt verbonden aan een specifieke handeling, gebeurtenis of omstandigheid.
+- Een RECHTSWEGE-BEPALING betreft een tekstfragment waarmee van rechtswege een rechtsgevolg wordt verbonden aan een specifieke handeling, gebeurtenis of omstandigheid.
 
 ## Nog een stapje dieper: handelingen, actoren en objecten
 
 Gedragsbepalingen gaan over handelingen zoals die in de werkelijkheid worden uitgevoerd. Met het vinden van de bepalingen is het ook mogelijk om die handelingen te benoemen.
 
-> Een HANDELING is een gebeurtenis zoals die plaatsvindt in de werkelijkheid en wordt genormeerd in een BEPALING.
+> Een HANDELING is een gebeurtenis zoals die plaatsvindt in de werkelijkheid door toedoen van een actor
 
-Van een handeling willen we weten wie de handeling uitvoert en waarover de handeling gaat:
+Hoewel niet expliciet in de definitie opgenomen, zijn alleen handelingen die het objectieve recht normeert van belang. Handelingen zonder enig rechtsgevolg vallen buiten de scope van rechtsvorming. Van een handeling willen we weten wie de handeling uitvoert en waarover de handeling gaat:
 
 > Een ACTOR is een persoon die een handeling uitvoert. Bij rechtshandeling zal de actor altijd een natuurlijk persoon of een rechtspersoon zijn.
+
 > Een OBJECT is hetgeen waarover de handeling gaat. Objecten zijn vaak "dingen", maar kunnen ook personen of gebeurtenissen zijn (bijvoorbeeld bij een onderzoekshandeling).
 
 Meerdere bepalingen kunnen eenzelfde handeling normeren. Daarmee kun je bepalingen groeperen rondom één handeling, en krijg je een goed beeld welke normeringen er allemaal gelden rondom die handeling. We kunnen hiermee alle bepalingen groeperen rondom een handeling:
@@ -90,13 +99,13 @@ Meerdere bepalingen kunnen eenzelfde handeling normeren. Daarmee kun je bepaling
 - Begrippen uit begripsbepalingen worden gebruikt in andere bepalingen;
 - Voorwaarde-bepalingen geven voorwaarden m.b.t. andere bepalingen.
 
-De enige soort bepaling die we hiermee nog niet (helemaal) hebben afgedekt is de gevolgbepaling. Die kan namelijk ook betrekking hebben op een omstandigheid of gebeurtenis die geen handeling is. Die kunnen we eenvoudig opnemen door ook een dergelijke omstandigheid of gebeurtenis op te nemen. Zo kun je ook een groepering van bepalingen krijgen rondom zo'n gebeurtenis of omstandigheid.
+De enige soort bepaling die we hiermee nog niet (helemaal) hebben afgedekt is de rechtswege-bepaling. Die kan namelijk ook betrekking hebben op een omstandigheid of gebeurtenis die geen handeling is. Die kunnen we eenvoudig opnemen door ook een dergelijke omstandigheid of gebeurtenis op te nemen. Zo kun je ook een groepering van bepalingen krijgen rondom zo'n gebeurtenis of omstandigheid.
 
 ## En tenslotte: feiten en gevolgen
 
 Regelvorming gaat over het vormen van het objectieve recht, het recht dat in beginsel voor iedereen geldt. Natuurlijk zijn specifieke bepalingen gericht op specifieke personen (de "normadressaat": degene aan wie de norm is geadresseerd), maar zo'n regel is niet specifiek bedoeld voor een specifieke persoon. Subjectieve rechten zijn dat juist wel: die "horen bij" een specifieke persoon. Het volgende tekstfragment betreft een definitiebepaling voor het begrip «eigensdom»: "Eigendom is het meest omvattende recht dat een persoon op een zaak kan hebben" (Artikel 1 lid 1 BW boek 5). Dit objectieve recht geldt voor iedereen. Maar stel dat je een huis bezit. Dan is dat *jouw* eigendom, en niet van iemand anders. Het eigendom van een specifiek huis, is een subjectief recht.
 
-Een rechtsgevolg is het gevolg dat het objectieve recht verbindt aan gebeurtenis, omstandigheid of handeling. Het rechtsgevolg omvat het ontstaan, wijzigen, verdwijnen en bevestigen van de subjectieve rechten: rechtsposities of rechtsverhoudingen die optreden als gevolg van dat rechtsfeit of die rechtshandeling.
+Een rechtsgevolg is het gevolg dat het objectieve recht verbindt aan gebeurtenis, omstandigheid of handeling. Het rechtsgevolg omvat het ontstaan, wijzigen, verdwijnen en bevestigen van de subjectieve rechten: rechtsposities of rechtsbetrekkingen die optreden als gevolg van dat rechtsfeit of die rechtshandeling.
 
 Daarmee komen we de kern van rechtsvorming: de feit-gevolg-paren. Een feit-gevolg-paar is een rechtsfeit, verbonden aan het rechtsgevolg, op grond van een bepaling.
 
@@ -112,15 +121,15 @@ Dit gevolg bestaat uit het ontstaan, wijzigen, verdwijnen of bevestigen van subj
 
 > Een RECHTSBETREKKING is een relatie waarbij een RECHTHEBBENDE een recht heeft ten opzichte van een PLICHTDRAGENDE.
 
-In de literatuur worden de termen "rechtspositie" en "rechtsbetrekking" nog wel eens door elkaar gehaald. Een opvatting is dat een rechtspositie betrekking heeft op één partij, waarbij de rechtsbetrekking die tussen partijen is (met elk een eigen rechtspositie). Een andere opvatting is dat de rechtspositie juist een bundeling is van een aantal rechtsbetrekkingen. Als Jan de eigenaar is van een perceel, dan is Jan in de rechtspositie van "eigenaar". Dit houdt een heel stel afzonderlijke rechtsbetrekkingen in. Deze twee opvattingen kunnen beiden waar zijn, door een rechtspositie niet te zien als een rechtsbetrekking, maar juist als een rechtsfeit waar *op zichzelf* het objectieve recht weer gevolgen aan verbindt (en vaak dan van rechtswege). Dus dat Jan de eigenaar is van een perceel is daarmee een rechtsfeit, het is de rechtspositie van Jan. En van rechtswege houdt dit een aantal rechtsbetrekkingen in.
+In de literatuur worden de termen "rechtspositie" en "rechtsbetrekking" nog wel eens door elkaar gebrukt. Een opvatting is dat een rechtspositie betrekking heeft op één partij, waarbij de rechtsbetrekking die tussen partijen is (met elk een eigen rechtspositie). Een andere opvatting is dat de rechtspositie juist een bundeling is van een aantal rechtsbetrekkingen. Als Jan de eigenaar is van een perceel, dan is Jan in de rechtspositie van "eigenaar". Dit houdt een heel stel afzonderlijke rechtsbetrekkingen in. Deze twee opvattingen kunnen beiden waar zijn, door een rechtspositie niet te zien als een rechtsbetrekking, maar juist als een rechtsfeit waar *op zichzelf* het objectieve recht weer gevolgen aan verbindt (en vaak dan van rechtswege). Dus dat Jan de eigenaar is van een perceel, is daarmee een rechtsfeit: het is de rechtspositie van Jan. En van rechtswege houdt dit een aantal rechtsbetrekkingen in.
 
-Een andere opvatting is dat een ding geen rechtspositie kan hebben, juist omdat het recht handelen van personen normeert, en dingen niet kunnen handelen. Ook die gedachte past in bovenstaande definities. Het normeren van handelen betreft hierbij de rechtsbetrekkingen, niet de rechtsposities. Je kunt namelijk een ding een rechtspositie geven (bijvoorbeeld: "verboden terrein"). Ook in dit geval heeft die rechtspositie een aantal rechtsbetrekkingen tot gevolg. Door te *besluiten* dat een terrein verboden is, ontstaat een rechtspositie en daarmee van rechtswege enkele rechtsbetrekkingen (verbod tot betreden). Vanzelfsprekend geldt dit verbod dan weer niet voor enkelen die bevoegd zijn om het terrein te betreden: ook die rechtsbetrekking behoort tot die rechtspositie.
+Een andere opvatting is dat een ding geen rechtspositie kan hebben, juist omdat het recht handelen van personen normeert, en dingen niet kunnen handelen. Ook die opvatting past in bovenstaande definities. Het normeren van handelen betreft hierbij de rechtsbetrekkingen, niet de rechtsposities. Je kunt namelijk een ding een rechtspositie geven (bijvoorbeeld: "verboden terrein"). Ook in dit geval heeft die rechtspositie een aantal rechtsbetrekkingen tot gevolg. Door te *besluiten* dat een terrein verboden is, ontstaat een rechtspositie en daarmee van rechtswege enkele rechtsbetrekkingen (zoals een verbod tot betreden). Vanzelfsprekend geldt dit verbod dan weer niet voor enkelen die bevoegd zijn om het terrein te betreden: ook die rechtsbetrekking behoort tot die rechtspositie.
 
 Met de feit-gevolg paren hebben we niet alleen beschreven welke normen aan een handeling worden gesteld, maar ook wat de gevolgen zijn. Die gevolgen zijn op zichzelf omstandigheden. Dit kunnen rechtsposities zijn of rechtsbetrekkingen. Rechtsposities zullen over het algemeen met een begripsbepaling zijn omschreven. Rechtsbetrekkingen zijn vaak als gedragsbepalingen omschreven: een verplichting om, een verbod om, een rechts om of een vrijstelling tot.
 
 Een rechtspositie is vaak van belang bij een voorwaarde. Zo betreft het volgende tekstfragment een rechtsbepaling (het recht om te mogen stemmen): "De leden van de Tweede Kamer der Staten-Generaal worden gekozen door degenen die op de dag van de kandidaatstelling Nederlander zijn en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt" (Artikel B1 lid 1 Kieswet). In dit tekstfragment zitten ook twee voorwaarde-bepalingen: je moet Nederlander zijn en je moet de leeftijd van achttien jaar hebben bereikt. Nederlander zijn is hier de omstandigheid, de rechtspositie die je moet hebben.
 
-Het komt veel minder vaak voor dat een rechtspositie ook weer tot rechtsbetrekkingen leidt. Dit kan alleen als sprake is van een rechtsgevolg-bepaling. In alle andere gevallen zou er immers eerst een rechtshandeling moeten zijn verricht. Zoals hierboven er geen direct rechtsgevolg is aan het feit dat iemand Nederlander is en meerderjarig: dat is slechts een voorwaarde om de rechtshandeling van stemmen uit te mogen voeren. Het volgende tekstfragment betreft de rechtsgevolg-bepaling dat iemand het recht heeft tot verblijf (een rechtsbetrekking): "De vreemdeling heeft in Nederland uitsluitend rechtmatig verblijf: als gemeenschapsonderdaan zolang deze onderdaan verblijf houdt op grond van een regeling krachtens het Verdrag betreffende de werking van de Europese Unie dan wel de Overeenkomst betreffende de Europese Economische Ruimte;" (Artikel 8 aanhef en onder e, Vw2000). "Gemeenschapsonderdaan" is hier de rechtspositie, en deze rechtsgevolg-bepaling is onder de genoemde voorwaarden.
+Als een rechtspositie als voorwaarde wordt gebruikt, is er geen sprake van een afzonderlijke rechtsbetrekking. Toch zal de rechtspositie zelf ook één of meerdere rechtsbetrekkingen tot gevolg hebben. Dit kan slechts op grond van een rechtswege-bepaling. In alle andere gevallen zou er immers eerst een rechtshandeling moeten zijn verricht. Zoals hierboven er geen direct rechtsgevolg is aan het feit dat iemand Nederlander is en meerderjarig: dat is slechts een voorwaarde om de rechtshandeling van stemmen uit te mogen voeren. Het volgende tekstfragment betreft de rechtsgevolg-bepaling dat iemand het recht heeft tot verblijf (een rechtsbetrekking): "De vreemdeling heeft in Nederland uitsluitend rechtmatig verblijf: als gemeenschapsonderdaan zolang deze onderdaan verblijf houdt op grond van een regeling krachtens het Verdrag betreffende de werking van de Europese Unie dan wel de Overeenkomst betreffende de Europese Economische Ruimte;" (Artikel 8 aanhef en onder e, Vw2000). "Gemeenschapsonderdaan" is hier de rechtspositie, en deze rechtswege-bepaling is onder de genoemde voorwaarden.
 
 ## Subjectieve rechten vs bepalingen in het objectieve recht
 
