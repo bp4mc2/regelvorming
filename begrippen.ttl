@@ -157,6 +157,12 @@ wab:GedragsbepalingHandeling a rdf:Statement;
   rdf:object wab:Handeling;
   rdf:predicate skos:related;
 .
+wab:GedragsbepalingGedragsnorm a rdf:Statement;
+  rdfs:label "door";
+  rdf:subject wab:Gedragsbepaling;
+  rdf:object wab:Gedragsnorm;
+  rdf:predicate skos:related;
+.
 
 wab:Voorwaarde a skos:Concept;
   rdfs:label "Voorwaarde";
@@ -174,7 +180,7 @@ wab:VoorwaardeGedragsbepaling a rdf:Statement;
   rdfs:label "beperkt";
   rdf:subject wab:Voorwaarde;
   rdf:object wab:Gedragsbepaling;
-  rdf:predicate skosthes:broaderGeneric;
+  rdf:predicate skos:related;
 .
 
 wab:Norm a skos:Concept;
@@ -267,11 +273,17 @@ wab:Normadressaat a skos:Concept;
   skosthes:broaderGeneric wab:Actor;
   skos:related wab:Gedragsnorm;
 .
-wab:NormadressaatActor a rdf:Statment;
+wab:NormadressaatActor a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Normadressaat;
   rdf:object wab:Actor;
   rdf:predicate skosthes:broaderGeneric;
+.
+wab:NormadressaatGedragsnorm a rdf:Statement;
+  rdfs:label "geadresseerd door";
+  rdf:subject wab:Normadressaat;
+  rdf:object wab:Gedragsnorm;
+  rdf:predicate skos:related;
 .
 
 wab:Verbod a skos:Concept;
@@ -288,7 +300,7 @@ wab:VerbodNorm a rdf:Statment;
 
 wab:Verplichting a skos:Concept;
   rdfs:label "Verplichting";
-  skos:definition "Een verbod is een norm waarmee een handeling wordt gekwalificeerd als verplicht om te verrichten";
+  skos:definition "Een verplichting is een norm waarmee een handeling wordt gekwalificeerd als verplicht om te verrichten";
   skosthes:broaderGeneric wab:Gedragsnorm;
 .
 wab:VerplichtingNorm a rdf:Statment;

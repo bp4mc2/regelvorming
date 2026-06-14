@@ -236,7 +236,7 @@
                             visible="true"
                             width="65.541015625"
                             x="2.0"
-                            y="30.1328125">Een verbod is een norm waarmee een handeling wordt gekwalificeerd als verplicht om te verrichten<y:LabelModel>
+                            y="30.1328125">Een verplichting is een norm waarmee een handeling wordt gekwalificeerd als verplicht om te verrichten<y:LabelModel>
                      <y:ErdAttributesNodeLabelModel/>
                   </y:LabelModel>
                   <y:ModelParameter>
@@ -1534,7 +1534,7 @@
                            xmlns:yed="http://www.yworks.com/xml/yed/3"
                            height="87.0"
                            width="144.0"
-                           x="955.4052494415487"
+                           x="838.0"
                            y="910.3004467609823"/>
                <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                <y:BorderStyle color="#000000" type="line" width="1.0"/>
@@ -2046,13 +2046,13 @@
                             distance="2.0"
                             fontFamily="Dialog"
                             fontSize="12"
-                            fontStyle="plain"
+                            fontStyle="italic"
                             hasLineColor="false"
                             modelName="custom"
                             preferredPlacement="anywhere"
                             ratio="0.5"
                             textColor="#000000"
-                            visible="true">related<y:LabelModel>
+                            visible="true">door<y:LabelModel>
                      <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
                   </y:LabelModel>
                   <y:ModelParameter>
@@ -2612,13 +2612,13 @@
                             distance="2.0"
                             fontFamily="Dialog"
                             fontSize="12"
-                            fontStyle="plain"
+                            fontStyle="italic"
                             hasLineColor="false"
                             modelName="custom"
                             preferredPlacement="anywhere"
                             ratio="0.5"
                             textColor="#000000"
-                            visible="true">related<y:LabelModel>
+                            visible="true">geadresseerd door<y:LabelModel>
                      <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
                   </y:LabelModel>
                   <y:ModelParameter>
@@ -3176,13 +3176,13 @@
                             distance="2.0"
                             fontFamily="Dialog"
                             fontSize="12"
-                            fontStyle="plain"
+                            fontStyle="italic"
                             hasLineColor="false"
                             modelName="custom"
                             preferredPlacement="anywhere"
                             ratio="0.5"
                             textColor="#000000"
-                            visible="true">related<y:LabelModel>
+                            visible="true">beperkt<y:LabelModel>
                      <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
                   </y:LabelModel>
                   <y:ModelParameter>
