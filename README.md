@@ -112,8 +112,45 @@ Dit gevolg bestaat uit het ontstaan, wijzigen, verdwijnen of bevestigen van subj
 
 > Een RECHTSBETREKKING is een relatie waarbij een RECHTHEBBENDE een recht heeft ten opzichte van een PLICHTDRAGENDE.
 
+In de literatuur worden de termen "rechtspositie" en "rechtsbetrekking" nog wel eens door elkaar gehaald. Een opvatting is dat een rechtspositie betrekking heeft op één partij, waarbij de rechtsbetrekking die tussen partijen is (met elk een eigen rechtspositie). Een andere opvatting is dat de rechtspositie juist een bundeling is van een aantal rechtsbetrekkingen. Als Jan de eigenaar is van een perceel, dan is Jan in de rechtspositie van "eigenaar". Dit houdt een heel stel afzonderlijke rechtsbetrekkingen in. Deze twee opvattingen kunnen beiden waar zijn, door een rechtspositie niet te zien als een rechtsbetrekking, maar juist als een rechtsfeit waar *op zichzelf* het objectieve recht weer gevolgen aan verbindt (en vaak dan van rechtswege). Dus dat Jan de eigenaar is van een perceel is daarmee een rechtsfeit, het is de rechtspositie van Jan. En van rechtswege houdt dit een aantal rechtsbetrekkingen in.
+
+Een andere opvatting is dat een ding geen rechtspositie kan hebben, juist omdat het recht handelen van personen normeert, en dingen niet kunnen handelen. Ook die gedachte past in bovenstaande definities. Het normeren van handelen betreft hierbij de rechtsbetrekkingen, niet de rechtsposities. Je kunt namelijk een ding een rechtspositie geven (bijvoorbeeld: "verboden terrein"). Ook in dit geval heeft die rechtspositie een aantal rechtsbetrekkingen tot gevolg. Door te *besluiten* dat een terrein verboden is, ontstaat een rechtspositie en daarmee van rechtswege enkele rechtsbetrekkingen (verbod tot betreden). Vanzelfsprekend geldt dit verbod dan weer niet voor enkelen die bevoegd zijn om het terrein te betreden: ook die rechtsbetrekking behoort tot die rechtspositie.
+
 Met de feit-gevolg paren hebben we niet alleen beschreven welke normen aan een handeling worden gesteld, maar ook wat de gevolgen zijn. Die gevolgen zijn op zichzelf omstandigheden. Dit kunnen rechtsposities zijn of rechtsbetrekkingen. Rechtsposities zullen over het algemeen met een begripsbepaling zijn omschreven. Rechtsbetrekkingen zijn vaak als gedragsbepalingen omschreven: een verplichting om, een verbod om, een rechts om of een vrijstelling tot.
 
 Een rechtspositie is vaak van belang bij een voorwaarde. Zo betreft het volgende tekstfragment een rechtsbepaling (het recht om te mogen stemmen): "De leden van de Tweede Kamer der Staten-Generaal worden gekozen door degenen die op de dag van de kandidaatstelling Nederlander zijn en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt" (Artikel B1 lid 1 Kieswet). In dit tekstfragment zitten ook twee voorwaarde-bepalingen: je moet Nederlander zijn en je moet de leeftijd van achttien jaar hebben bereikt. Nederlander zijn is hier de omstandigheid, de rechtspositie die je moet hebben.
 
 Het komt veel minder vaak voor dat een rechtspositie ook weer tot rechtsbetrekkingen leidt. Dit kan alleen als sprake is van een rechtsgevolg-bepaling. In alle andere gevallen zou er immers eerst een rechtshandeling moeten zijn verricht. Zoals hierboven er geen direct rechtsgevolg is aan het feit dat iemand Nederlander is en meerderjarig: dat is slechts een voorwaarde om de rechtshandeling van stemmen uit te mogen voeren. Het volgende tekstfragment betreft de rechtsgevolg-bepaling dat iemand het recht heeft tot verblijf (een rechtsbetrekking): "De vreemdeling heeft in Nederland uitsluitend rechtmatig verblijf: als gemeenschapsonderdaan zolang deze onderdaan verblijf houdt op grond van een regeling krachtens het Verdrag betreffende de werking van de Europese Unie dan wel de Overeenkomst betreffende de Europese Economische Ruimte;" (Artikel 8 aanhef en onder e, Vw2000). "Gemeenschapsonderdaan" is hier de rechtspositie, en deze rechtsgevolg-bepaling is onder de genoemde voorwaarden.
+
+## Subjectieve rechten vs bepalingen in het objectieve recht
+
+Rechtsgevolgen betreffen subjectieve rechten: ze binden concrete partijen in hun handelen. Bepalingen in het objectieve recht zijn dit juist niet: ze binden geen concrete partijen, maar beschrijven juist in algemene zin wanneer sprake is van een subjectief recht: door rechtsfeiten te verbinden aan die gevolgen.
+
+Daarmee is er wel een relatie: afhankelijk van de bepaling zal er sprake zijn van een specifiek soort subjectief recht dat ontstaat. Voor de ordening van subjectieve rechten maken we gebruik van de indeling die Hohfeld hiervoor heeft gegeven, in het bijzonder de indeling van rechtsbetrekkingen. Hohfeld onderscheid vier soorten rechtsbetrekkingen, elk opgebouwd uit paren van twee begrippen:
+
+|Recht|Houdt in|leidt tot|plicht|
+|-----|--------|---------|------|
+|Claim (aanspraak)|Het recht om iets te mogen eisen|Een plicht om de eis te vervullen|Duty (verplichting)|
+|Liberty (vrijheid)|Het recht om iets te mogen|Een plicht om hieraan geen eisen te stellen|No-right (geen aanspraak)|
+|Power (bevoegdheid)|Het recht om een rechtshandeling te verrichten|Een plicht om zich hieraan te onderwerpen|Liability (gehoudenheid)|
+|Immunity (immuniteit)|Het recht om vrijgesteld te zijn van een onderwerping|Een plicht om te onthouden van rechtshandelen|Disability (geen bevoegdheid)|
+
+Claim-Duty en Liberty-No-right hebben te maken met feitelijk handelen. Handelingen die mogen of moeten zijn daarbij rechtmatige daden, handelingen die juist niet mogen of niet gedaan worden zijn onrechtmatige daden.
+
+Power-Liability en Immunity-Disability hebben te maken met rechtshandelingen. Een power betreft expliciet zo'n rechtshandeling en de liability de onderwerping aan die rechtshandelingen (je accepteert de rechtsgevolgen).
+
+Met bepalingen wordt geregeld welke subjectieve rechten er mogelijk zijn. Vaak benoemd een bepaling daarbij één kant van de rechtsbetrekking, de andere kant ontstaat als gevolg van het verbinding die het objectieve recht legt tussen het rechtsfeit en het rechtsgevolg:
+
+|Bepaling|Recht|Plicht|
+|--------|-----|------|
+|Bevoegdheid|Power (van een bestuursorgaan)|Liability (om je te houden aan de gevolgen van de rechtshandeling)|
+|Rechtschepping|Power (van een rechtssubjecten, niet zijnde overheid)|Liability (om je te houden aan de gevolgen van de rechtshandeling)|
+|Verplichting|Duty (plicht om te handelen)|Claim (je mag aanspraak maken op het feit dat er moet worden gehandeld)|
+|Vrijstelling|Liberty (plicht om te handelen geldt niet)|No-right (je mag geen aanspraak maken op het feit dat er moet worden gehandeld)|
+|Verbod|Duty (plicht tot nalaten van een handeling)|Claim (je mag aanspraak maken op het feit dat er niet wordt gehandeld)|
+
+Bevoegdheid en rechtschepping is hier uit elkaar getrokken, ondanks dat het gaat omdezelfde soort rechtsbetrekkingen. Dit is gedaan omdat niet-overheidspartijen in beginsel vrij zijn, en dus geen bevoegdheid nodig hebben. Overheidsorganen hebben juist een bevoegdheid nodig. Overigens, niet alleen om rechtshandelingen te plegen, maar ook feitelijke handelingen. Een bevoegdheidsbepaling *hoeft* dus niet om een rechtshandeling te gaan, maar kan ook (simpelweg) een feitelijke handeling betrekken, bijvoorbeeld het in bewaring nemen van goederen.
+
+Een immunity in een afzonderlijke bepaling is vrij zeldzaam. Meestal is dit geregeld met een voorwaarde-bepaling bij een bevoegdheidsbepaling: de bevoegheid is dan zelf al ingeperkt in het objectieve recht, er is geen specifiek subjectief recht voor nodig.
+
+OOk een liberty als afzonderlijke bepaling is vrij zeldzaam. Meestal zijn liberties "verstopt" in van-rechtswege-bepalingen. Zo is het gevolg van de juridische positie van een eigendom dat de eigenaar vrij is om te doen op zijn erf wat hij wil, en anderen moeten dit hem laten.
