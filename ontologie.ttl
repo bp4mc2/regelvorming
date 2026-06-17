@@ -1,0 +1,121 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix skosthes: <http://purl.org/iso25964/skos-thes#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix sh: <http://www.w3.org/ns/shacl#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix eli: <http://data.europa.eu/eli/ontology#>  .
+
+@prefix was: <http://bp4mc2.org/regelvorming/shapes#>.
+@prefix wab: <http://bpm4mc2.org/regelvorming/>.
+@prefix wa: <http://bp4mc2.org/regelvorming#>.
+
+was:Bron a sh:NodeShape;
+  rdfs:label "Bron";
+  sh:name "Bron";
+  sh:targetClass eli:LegalResource;
+  dct:subject wab:Bron;
+  sh:property was:Bron.title;
+.
+was:Bron.title a sh:PropertyShape;
+  rdfs:label "titel";
+  sh:path dct:title;
+  sh:minCount 1;
+  sh:maxCount 1;
+  sh:datatype xsd:string;
+.
+
+was:Fragment a sh:NodeShape;
+  rdfs:label "Fragment";
+  sh:targetClass eli:LegalResourceSubdivision;
+  dct:subject wab:Fragment;
+  sh:property was:Fragment.title;
+  sh:property was:Fragment.onderdeelVan;
+  sh:property was:Fragment.verwijstNaar;
+.
+was:Fragment.title a sh:PropertyShape;
+  rdfs:label "titel";
+  sh:path dct:title;
+  sh:minCount 1;
+  sh:maxCount 1;
+  sh:datatype xsd:string;
+.
+was:Fragment.onderdeelVan a sh:PropertyShape;
+  rdfs:label "onderdeel van";
+  sh:path dct:isPartOf;
+  sh:xone (
+    [sh:class eli:LegalResource]
+    [sh:class eli:LegalResourceSubdivision]
+  );
+  sh:minCount 1;
+  sh:maxCount 1;
+.
+was:Fragment.verwijstNaar a sh:PropertyShape;
+  rdfs:label "verwijst naar";
+  sh:path eli:cites;
+  sh:class eli:LegalResourceSubdivision;
+.
+
+was:Bepaling a sh:NodeShape;
+  rdfs:label "Bepaling";
+  sh:targetClass wa:Bepaling;
+  dct:subject wab:Bepaling;
+  sh:property was:Bepaling.opGrondVan;
+  sh:property was:Bepaling.normeert;
+  sh:property was:Bepaling.soort;
+.
+was:Bepaling.opGrondVan a sh:PropertyShape;
+  rdfs:label "op grond van";
+  sh:path dct:source;
+  sh:node was:Fragment;
+  sh:minCount 1;
+  sh:maxCount 1;
+.
+was:Bepaling.normeert a sh:PropertyShape;
+  rdfs:label "normeert";
+  sh:node was:Handeling;
+  sh:maxCount 1;
+.
+was:Bepaling.soort a sh:PropertyShape;
+  rdfs:label "soort";
+  sh:path wa:soort;
+  sh:node was:Bepalingsoorten;
+  sh:minCount 1;
+  sh:maxCount 1;
+.
+
+was:Bepalingsoorten a sh:NodeShape;
+  rdfs:label "Bepalingsoorten";
+  sh:property [
+    sh:path [sh:inversePath skos:member];
+    sh:hasValue wab:Bepalingsoorten;
+  ]
+.
+wab:Bepalingsoorten a skos:Collection;
+  skos:member wab:Begripsbepaling;
+  skos:member wab:Voorwaarde;
+  skos:member wab:RechtswegeBepaling;
+  skos:member wab:Vrijstelling;
+  skos:member wab:Bevoegdheid;
+  skos:member wab:Attributie;
+  skos:member wab:Delegatie;
+  skos:member wab:Rechtschepping;
+  skos:member wab:Verplichting;
+  skos:member wab:Verbod;
+.
+
+was:Handeling a sh:NodeShape;
+  rdfs:label "Handeling";
+  sh:targetClass wa:Handeling;
+  dct:subject wab:Handeling;
+  sh:property was:Handeling.naam;
+.
+was:Handeling.naam a sh:PropertyShape;
+  rdfs:label "Naam";
+  sh:path rdfs:label;
+  sh:minCount 1;
+  sh:maxCount 1;
+  sh:datatype xsd:string;
+.

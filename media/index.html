@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <title>Regelvorming</title>
+    <script
+      src="https://www.w3.org/Tools/respec/respec-w3c"
+      class="remove"
+      defer
+    ></script>
+    <script src="postprocess.js" class="remove"></script>
+    <script class="remove">
+      // All config options at https://respec.org/docs/
+      var respecConfig = {
+        //localBiblio: localBiblio,
+        specStatus: "base",
+        shortName: "RV",
+        subtitle: "Begrippen en model",
+        publishDate: "2025-12-18",
+        postProcess: [markupDefTables],
+        latestVersion: "https://../gmk",
+        editors: [{ name: "Werkgroep"}],
+        authors: [
+          {
+            name:       "MB",
+            company:    "Architolk",
+            companyURL: "https://www.architolk.nl"
+          },
+        ],
+        lint: false,
+      };
+    </script>
+  </head>
+  <body>
+    <p class="copyright" />
+    <section id="abstract" data-format="markdown" data-include-format="text" data-include="samenvatting.md"></section>
+    <section data-include-format="markdown" data-include="begrippen.md"></section>
+    <section data-include-format="markdown" data-include="ontologie.md"></section>
+  </body>
+</html>
