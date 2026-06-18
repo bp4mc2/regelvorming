@@ -1,7 +1,5 @@
 # Regelvorming
 
-(for english click [here](README-en.md))
-
 Een modelleertaal om juridische regels mee te vormen.
 
 ## Inleiding
