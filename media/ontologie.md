@@ -1,4 +1,6 @@
 # Toepassingsprofiel
+![](profiel.svg "profiel")
+
 
 ## Klassen
 

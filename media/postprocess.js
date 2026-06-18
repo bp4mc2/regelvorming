@@ -17,3 +17,17 @@ function markupDefTables() {
   }
   return
 }
+function markupNotes() {
+  const blockquotes = document.getElementsByTagName("blockquote");
+  for (const blockquote of blockquotes) {
+    if (blockquote.children.length>0) {
+      if (blockquote.children[0].innerHTML.startsWith("[!NOTE]\n")) {
+        blockquote.classList.add('note');
+        blockquote.children[0].innerHTML = blockquote.children[0].innerHTML.substring(8);
+        noteP = document.createElement("p");
+        noteP.innerHTML="NOTE";
+        blockquote.insertBefore(noteP,blockquote.children[0])
+      }
+    }
+  }
+}

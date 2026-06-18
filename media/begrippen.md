@@ -1,5 +1,7 @@
 # Begrippen
 
+![](begrippenmodel.svg "begrippenmodel")
+
 ## Regelvorming
 
 ### Actor
