@@ -4,7 +4,7 @@
 
 ## Klassen
 
-### Bepaling
+### Bepaling {#TBepaling}
 
 |URI|http://bp4mc2.org/regelvorming#Bepaling|
 |-|-|
@@ -12,11 +12,11 @@
 
 |Eigenschap|Kardinaliteit|Datatype/klasse|
 |----------|-------------|---------------|
-|op grond van|1..1|Fragment|
-|normeert|0..1|Handeling|
-|soort|1..1|Bepalingsoorten|
+|op grond van|1..1|[Fragment](#TFragment)|
+|normeert|0..1|[Handeling](#THandeling)|
+|soort|1..1|[Bepalingsoorten](#TBepalingsoorten)|
 
-### Bron
+### Bron {#TBron}
 
 |URI|http://data.europa.eu/eli/ontology#LegalResource|
 |-|-|
@@ -26,7 +26,7 @@
 |----------|-------------|---------------|
 |titel|1..1|[string](http://www.w3.org/2001/XMLSchema#string)|
 
-### Fragment
+### Fragment {#TFragment}
 
 |URI|http://data.europa.eu/eli/ontology#LegalResourceSubdivision|
 |-|-|
@@ -35,10 +35,10 @@
 |Eigenschap|Kardinaliteit|Datatype/klasse|
 |----------|-------------|---------------|
 |titel|1..1|[string](http://www.w3.org/2001/XMLSchema#string)|
-|verwijst naar|0..n|Fragment|
+|verwijst naar|0..n|[Fragment](#TFragment)|
 |onderdeel van|1..1||
 
-### Handeling
+### Handeling {#THandeling}
 
 |URI|http://bp4mc2.org/regelvorming#Handeling|
 |-|-|
