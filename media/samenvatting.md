@@ -1,4 +1,10 @@
-Dit document geeft een overzicht van de begrippen die relevant zijn bij regelvorming.
+Dit document beschrijft hoe juridische regels gevormd kunnen worden. Daarvoor geeft dit document een aantal begrippen en beschrijft hoe deze begrippen in samenhangt gebruikt kunnen worden om juridische regels te vormen: het juridisch grammatica.
+
+De opbouw van dit document is als volgt:
+- Het eerste hoofdstuk begint met een [voorbeeldtoepassing](#voorbeeldtoepassing) hoe regelvorming werkt als analyse-instrument. Hiermee wordt gelijk de praktische inzet van regelvorming aangetoond.
+- Het tweede hoofdstuk geeft een [uitleg](#regelvorming) van regelvorming. Voor degenen die eerst de uitleg wensen, en daarna pas het voorbeeld, kunnen direct naar de uitleg gaan.
+- Het derde hoofdstuk geeft alle gebruikte [begrippen](#begrippen) en hun definities. Dit dient vooral als naslagwerk en kan gebruikt worden bij het lezen van de eerste twee hoofdstukken.
+- Het vierde hoofdstuk geeft het [toepassingsprofiel](#toepassingsprofiel), het grammatica dat wordt toegepast in het eerste hoofdstuk. Dit hoofdstuk geeft inzicht van wat er met regelvorming precies wordt vastgelegd. Het heet een toepassingsprofiel, omdat het (grotendeels) is gebaseerd op bestaande vocabulaires, zoals onder meer ELI, SKOS en ODRL.
 
 De kernbegrippen zijn:
 

@@ -1,0 +1,2882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns:y="http://www.yworks.com/xml/graphml"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:sh="http://www.w3.org/ns/shacl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:graphml="http://graphml.graphdrawing.org/xmlns">
+   <key attr.name="url" attr.type="string" for="node" id="d3"/>
+   <key attr.name="statement-url" attr.type="string" for="edge" id="d7"/>
+   <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+   <key for="node" id="d6" yfiles.type="nodegraphics"/>
+   <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+   <graph id="G" edgedefault="directed">
+      <node id="http://example.org/doc#Artikel31Pw">
+         <data key="d3">http://example.org/doc#Artikel31Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 31 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel52Pw">
+         <data key="d3">http://example.org/doc#Artikel52Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 52 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel50lid1Pw">
+         <data key="d3">http://example.org/doc#Artikel50lid1Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 50 lid 1 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel50Pw">
+         <data key="d3">http://example.org/doc#Artikel50Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 50 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel50lid2Pw">
+         <data key="d3">http://example.org/doc#Artikel50lid2Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 50 lid 2 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel34Pw">
+         <data key="d3">http://example.org/doc#Artikel34Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 34 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel32Pw">
+         <data key="d3">http://example.org/doc#Artikel32Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 32 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel33Pw">
+         <data key="d3">http://example.org/doc#Artikel33Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 33 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel36Pw">
+         <data key="d3">http://example.org/doc#Artikel36Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 36 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel37Pw">
+         <data key="d3">http://example.org/doc#Artikel37Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 37 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Participatiewet">
+         <data key="d3">http://example.org/doc#Participatiewet</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Participatiewet<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel36lid2Pw">
+         <data key="d3">http://example.org/doc#Artikel36lid2Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 36 lid 2 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel36lid1Pw">
+         <data key="d3">http://example.org/doc#Artikel36lid1Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 36 lid 1 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel31lid4Pw">
+         <data key="d3">http://example.org/doc#Artikel31lid4Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 31 lid 4 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel31lid5Pw">
+         <data key="d3">http://example.org/doc#Artikel31lid5Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 31 lid 5 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel36lid4Pw">
+         <data key="d3">http://example.org/doc#Artikel36lid4Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 36 lid 4 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel31lid6Pw">
+         <data key="d3">http://example.org/doc#Artikel31lid6Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 31 lid 6 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel36lid3Pw">
+         <data key="d3">http://example.org/doc#Artikel36lid3Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 36 lid 3 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel31lid1Pw">
+         <data key="d3">http://example.org/doc#Artikel31lid1Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 31 lid 1 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel31lid2Pw">
+         <data key="d3">http://example.org/doc#Artikel31lid2Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 31 lid 2 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel37lid1Pw">
+         <data key="d3">http://example.org/doc#Artikel37lid1Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 37 lid 1 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel31lid3Pw">
+         <data key="d3">http://example.org/doc#Artikel31lid3Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 31 lid 3 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel37lid3Pw">
+         <data key="d3">http://example.org/doc#Artikel37lid3Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 37 lid 3 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel37lid2Pw">
+         <data key="d3">http://example.org/doc#Artikel37lid2Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 37 lid 2 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel43Pw">
+         <data key="d3">http://example.org/doc#Artikel43Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 43 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel37lid5Pw">
+         <data key="d3">http://example.org/doc#Artikel37lid5Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 37 lid 5 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel37lid4Pw">
+         <data key="d3">http://example.org/doc#Artikel37lid4Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 37 lid 4 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel49Pw">
+         <data key="d3">http://example.org/doc#Artikel49Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 49 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel34lid3Pw">
+         <data key="d3">http://example.org/doc#Artikel34lid3Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 34 lid 3 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel34lid2Pw">
+         <data key="d3">http://example.org/doc#Artikel34lid2Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 34 lid 2 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel34lid1Pw">
+         <data key="d3">http://example.org/doc#Artikel34lid1Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 34 lid 1 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <edge source="http://example.org/doc#Artikel31Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel31Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel52Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel52Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel50lid1Pw"
+            target="http://example.org/doc#Artikel50Pw">
+         <data key="d7">http://example.org/doc#Artikel50lid1Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel50Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel50Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel50Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel50lid2Pw"
+            target="http://example.org/doc#Artikel50Pw">
+         <data key="d7">http://example.org/doc#Artikel50lid2Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel50Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel50lid2Pw"
+            target="http://example.org/doc#Artikel50lid1Pw">
+         <data key="d7">http://example.org/doc#Artikel50lid2Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel50lid1Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel50lid2Pw"
+            target="http://example.org/doc#Artikel37lid1Pw">
+         <data key="d7">http://example.org/doc#Artikel50lid2Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel37lid1Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel50lid2Pw"
+            target="http://example.org/doc#Artikel34lid2Pw">
+         <data key="d7">http://example.org/doc#Artikel50lid2Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel34lid2Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel34Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel32Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel32Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel33Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel33Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel36Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel37Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel37Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid2Pw"
+            target="http://example.org/doc#Artikel36Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid2Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel36Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid2Pw"
+            target="http://example.org/doc#Artikel36lid1Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid2Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel36lid1Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid1Pw"
+            target="http://example.org/doc#Artikel36Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid1Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel36Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid1Pw"
+            target="http://example.org/doc#Artikel34Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid1Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel34Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel31lid4Pw"
+            target="http://example.org/doc#Artikel31Pw">
+         <data key="d7">http://example.org/doc#Artikel31lid4Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel31Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel31lid5Pw"
+            target="http://example.org/doc#Artikel31Pw">
+         <data key="d7">http://example.org/doc#Artikel31lid5Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel31Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid4Pw"
+            target="http://example.org/doc#Artikel36Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid4Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel36Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid4Pw"
+            target="http://example.org/doc#Artikel43Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid4Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel43Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid4Pw"
+            target="http://example.org/doc#Artikel49Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid4Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel49Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid4Pw"
+            target="http://example.org/doc#Artikel52Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid4Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel52Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel31lid6Pw"
+            target="http://example.org/doc#Artikel31Pw">
+         <data key="d7">http://example.org/doc#Artikel31lid6Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel31Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid3Pw"
+            target="http://example.org/doc#Artikel36Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid3Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel36Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel36lid3Pw"
+            target="http://example.org/doc#Artikel36lid1Pw">
+         <data key="d7">http://example.org/doc#Artikel36lid3Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel36lid1Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel31lid1Pw"
+            target="http://example.org/doc#Artikel31Pw">
+         <data key="d7">http://example.org/doc#Artikel31lid1Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel31Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel31lid2Pw"
+            target="http://example.org/doc#Artikel31Pw">
+         <data key="d7">http://example.org/doc#Artikel31lid2Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel31Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel37lid1Pw"
+            target="http://example.org/doc#Artikel37Pw">
+         <data key="d7">http://example.org/doc#Artikel37lid1Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel37Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel31lid3Pw"
+            target="http://example.org/doc#Artikel31Pw">
+         <data key="d7">http://example.org/doc#Artikel31lid3Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel31Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel37lid3Pw"
+            target="http://example.org/doc#Artikel37Pw">
+         <data key="d7">http://example.org/doc#Artikel37lid3Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel37Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel37lid2Pw"
+            target="http://example.org/doc#Artikel37Pw">
+         <data key="d7">http://example.org/doc#Artikel37lid2Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel37Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel43Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel43Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel37lid5Pw"
+            target="http://example.org/doc#Artikel37Pw">
+         <data key="d7">http://example.org/doc#Artikel37lid5Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel37Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel37lid4Pw"
+            target="http://example.org/doc#Artikel37Pw">
+         <data key="d7">http://example.org/doc#Artikel37lid4Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel37Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel49Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel49Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34lid3Pw"
+            target="http://example.org/doc#Artikel34Pw">
+         <data key="d7">http://example.org/doc#Artikel34lid3Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel34Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34lid3Pw"
+            target="http://example.org/doc#Artikel34lid2Pw">
+         <data key="d7">http://example.org/doc#Artikel34lid3Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel34lid2Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34lid2Pw"
+            target="http://example.org/doc#Artikel34Pw">
+         <data key="d7">http://example.org/doc#Artikel34lid2Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel34Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34lid2Pw"
+            target="http://example.org/doc#Artikel50lid1Pw">
+         <data key="d7">http://example.org/doc#Artikel34lid2Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel50lid1Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34lid2Pw"
+            target="http://example.org/doc#Artikel31lid2Pw">
+         <data key="d7">http://example.org/doc#Artikel34lid2Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel31lid2Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34lid1Pw"
+            target="http://example.org/doc#Artikel34Pw">
+         <data key="d7">http://example.org/doc#Artikel34lid1Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel34Pw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34lid1Pw"
+            target="http://example.org/doc#Artikel32Pw">
+         <data key="d7">http://example.org/doc#Artikel34lid1Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel32Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel34lid1Pw"
+            target="http://example.org/doc#Artikel33Pw">
+         <data key="d7">http://example.org/doc#Artikel34lid1Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel33Pw</data>
+         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+   </graph>
+</graphml>
