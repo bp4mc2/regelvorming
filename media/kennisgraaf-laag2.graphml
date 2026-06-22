@@ -458,6 +458,45 @@ Referteperiode<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMode
             </y:ShapeNode>
          </data>
       </node>
+      <node id="http://example.org/doc#Artikel1subdViitU">
+         <data key="d3">http://example.org/doc#Artikel1subdViitU</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry xmlns="http://graphml.graphdrawing.org/xmlns"
+                           xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java"
+                           xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0"
+                           xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0"
+                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                           xmlns:yed="http://www.yworks.com/xml/yed/3"
+                           height="66.0"
+                           width="205.0"
+                           x="1323.2308265078182"
+                           y="387.94638868205516"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 1 sub d ViitU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
       <node id="http://example.org/doc#Artikel36lid2Pw">
          <data key="d3">http://example.org/doc#Artikel36lid2Pw</data>
          <data key="d6">
@@ -889,7 +928,16 @@ Het college<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><
          <data key="d3">http://example.org/ex#ReferteperiodeDefinitie</data>
          <data key="d6">
             <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Geometry xmlns="http://graphml.graphdrawing.org/xmlns"
+                           xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java"
+                           xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0"
+                           xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0"
+                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                           xmlns:yed="http://www.yworks.com/xml/yed/3"
+                           height="66.0"
+                           width="51.001953125"
+                           x="1182.9567655978526"
+                           y="387.94638868205516"/>
                <y:Fill color="#FFCC00" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
@@ -1006,6 +1054,45 @@ Het college<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><
                             x="86.443359375"
                             xml:space="preserve"
                             y="23.93359375">Artikel 34 lid 1 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel1subeViitU">
+         <data key="d3">http://example.org/doc#Artikel1subeViitU</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry xmlns="http://graphml.graphdrawing.org/xmlns"
+                           xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java"
+                           xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0"
+                           xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0"
+                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                           xmlns:yed="http://www.yworks.com/xml/yed/3"
+                           height="66.0"
+                           width="205.0"
+                           x="1323.2308265078182"
+                           y="483.94638868205516"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 1 sub e ViitU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
                                                      offsetX="0.0"
                                                      offsetY="0.0"
                                                      upX="0.0"
@@ -1193,6 +1280,36 @@ Verlenen individuele inkomenstoeslag<y:LabelModel><y:SmartNodeLabelModel distanc
                             x="86.443359375"
                             xml:space="preserve"
                             y="23.93359375">Artikel 1 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel1ViitU">
+         <data key="d3">http://example.org/doc#Artikel1ViitU</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 1 ViitU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
                                                      offsetX="0.0"
                                                      offsetY="0.0"
                                                      upX="0.0"
@@ -1572,7 +1689,16 @@ Omstandigheden van de persoon<y:LabelModel><y:SmartNodeLabelModel distance="4.0"
          <data key="d3">http://example.org/ex#VanToepassingZijndeBijstandsnormDefinitie</data>
          <data key="d6">
             <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Geometry xmlns="http://graphml.graphdrawing.org/xmlns"
+                           xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java"
+                           xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0"
+                           xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0"
+                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                           xmlns:yed="http://www.yworks.com/xml/yed/3"
+                           height="66.0"
+                           width="51.001953125"
+                           x="1182.9567655978526"
+                           y="483.94638868205516"/>
                <y:Fill color="#FFCC00" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
@@ -2812,7 +2938,7 @@ Vermogen als bedoeld in artikel 34<y:LabelModel><y:SmartNodeLabelModel distance=
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">source<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">grondslag<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2825,36 +2951,6 @@ Vermogen als bedoeld in artikel 34<y:LabelModel><y:SmartNodeLabelModel distance=
             </y:PolyLineEdge>
          </data>
       </edge>
-      <node id="http://example.org/doc#Artikel1subdViitU">
-         <data key="d3">http://example.org/doc#Artikel1subdViitU</data>
-         <data key="d6">
-            <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#00CCFF" transparent="false"/>
-               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
-                            fontStyle="plain"
-                            hasBackgroundColor="false"
-                            hasLineColor="false"
-                            height="18.1328125"
-                            horizontalTextPosition="center"
-                            iconTextGap="4"
-                            modelName="custom"
-                            textColor="#000000"
-                            verticalTextPosition="bottom"
-                            visible="true"
-                            width="32.11328125"
-                            x="86.443359375"
-                            xml:space="preserve"
-                            y="23.93359375">Artikel1subdViitU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
-                                                     offsetX="0.0"
-                                                     offsetY="0.0"
-                                                     upX="0.0"
-                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-               <y:Shape type="ellipse"/>
-            </y:ShapeNode>
-         </data>
-      </node>
       <edge source="http://example.org/ex#HetCollegeDefinitie"
             target="http://example.org/ex#HetCollege">
          <data key="d7">http://example.org/ex#HetCollegeDefinitiehttp://purl.org/dc/terms/subjecthttp://example.org/ex#HetCollege</data>
@@ -3326,7 +3422,7 @@ Vermogen als bedoeld in artikel 34<y:LabelModel><y:SmartNodeLabelModel distance=
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">source<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">grondslag<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3339,36 +3435,6 @@ Vermogen als bedoeld in artikel 34<y:LabelModel><y:SmartNodeLabelModel distance=
             </y:PolyLineEdge>
          </data>
       </edge>
-      <node id="http://example.org/doc#Artikel1subeViitU">
-         <data key="d3">http://example.org/doc#Artikel1subeViitU</data>
-         <data key="d6">
-            <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#00CCFF" transparent="false"/>
-               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
-                            fontStyle="plain"
-                            hasBackgroundColor="false"
-                            hasLineColor="false"
-                            height="18.1328125"
-                            horizontalTextPosition="center"
-                            iconTextGap="4"
-                            modelName="custom"
-                            textColor="#000000"
-                            verticalTextPosition="bottom"
-                            visible="true"
-                            width="32.11328125"
-                            x="86.443359375"
-                            xml:space="preserve"
-                            y="23.93359375">Artikel1subeViitU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
-                                                     offsetX="0.0"
-                                                     offsetY="0.0"
-                                                     upX="0.0"
-                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-               <y:Shape type="ellipse"/>
-            </y:ShapeNode>
-         </data>
-      </node>
       <edge source="http://example.org/ex#OmstandighedenVanDePersoonDefinitie"
             target="http://example.org/ex#OmstandighedenVanDePersoon">
          <data key="d7">http://example.org/ex#OmstandighedenVanDePersoonDefinitiehttp://purl.org/dc/terms/subjecthttp://example.org/ex#OmstandighedenVanDePersoon</data>

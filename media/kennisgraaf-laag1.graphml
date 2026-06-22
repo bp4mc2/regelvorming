@@ -345,6 +345,36 @@
             </y:ShapeNode>
          </data>
       </node>
+      <node id="http://example.org/doc#Artikel1subdViitU">
+         <data key="d3">http://example.org/doc#Artikel1subdViitU</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 1 sub d ViitU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
       <node id="http://example.org/doc#Artikel36lid2Pw">
          <data key="d3">http://example.org/doc#Artikel36lid2Pw</data>
          <data key="d6">
@@ -873,6 +903,36 @@
             </y:ShapeNode>
          </data>
       </node>
+      <node id="http://example.org/doc#Artikel1subeViitU">
+         <data key="d3">http://example.org/doc#Artikel1subeViitU</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 1 sub e ViitU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
       <node id="http://example.org/doc#Artikel1Pw">
          <data key="d3">http://example.org/doc#Artikel1Pw</data>
          <data key="d6">
@@ -895,6 +955,36 @@
                             x="86.443359375"
                             xml:space="preserve"
                             y="23.93359375">Artikel 1 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel1ViitU">
+         <data key="d3">http://example.org/doc#Artikel1ViitU</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 1 ViitU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
                                                      offsetX="0.0"
                                                      offsetY="0.0"
                                                      upX="0.0"
@@ -1934,6 +2024,50 @@
       <edge source="http://example.org/doc#Artikel37Pw"
             target="http://example.org/doc#Participatiewet">
          <data key="d7">http://example.org/doc#Artikel37Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel1subdViitU"
+            target="http://example.org/doc#Artikel1ViitU">
+         <data key="d7">http://example.org/doc#Artikel1subdViitUhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel1ViitU</data>
          <data key="d8">http://purl.org/dc/terms/isPartOf</data>
          <data key="d10">
             <y:PolyLineEdge>
@@ -3195,9 +3329,97 @@
             </y:PolyLineEdge>
          </data>
       </edge>
+      <edge source="http://example.org/doc#Artikel1subeViitU"
+            target="http://example.org/doc#Artikel1ViitU">
+         <data key="d7">http://example.org/doc#Artikel1subeViitUhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel1ViitU</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
       <edge source="http://example.org/doc#Artikel1Pw"
             target="http://example.org/doc#Participatiewet">
          <data key="d7">http://example.org/doc#Artikel1Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel1ViitU"
+            target="http://example.org/doc#VerordeningIITUtrecht">
+         <data key="d7">http://example.org/doc#Artikel1ViitUhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#VerordeningIITUtrecht</data>
          <data key="d8">http://purl.org/dc/terms/isPartOf</data>
          <data key="d10">
             <y:PolyLineEdge>

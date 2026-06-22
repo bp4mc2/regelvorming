@@ -283,11 +283,26 @@ doc:Artikel52Pw a eli:LegalResourceSubdivision;
 doc:VerordeningIITUtrecht a eli:LegalResource;
   rdfs:label "Verordening IIT Utrecht";
 .
+
+doc:Artikel1ViitU a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 1 ViitU";
+  dct:isPartOf doc:VerordeningIITUtrecht;
+.
+doc:Artikel1subdViitU a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 1 sub d ViitU";
+  dct:isPartOf doc:Artikel1ViitU;
+.
+doc:Artikel1subeViitU a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 1 sub e ViitU";
+  dct:isPartOf doc:Artikel1ViitU;
+.
+
 doc:Artikel2ViitU a eli:LegalResourceSubdivision;
   rdfs:label "Artikel 2 ViitU";
   rdfs:comment "Een persoon heeft een langdurig laag inkomen als gedurende de referteperiode, over de gehele periode bezien, het in aanmerking te nemen inkomen niet hoger is dan 125% van de van toepassing zijnde bijstandsnorm.";
   dct:isPartOf doc:VerordeningIITUtrecht;
 .
+
 doc:Artikel4ViitU a eli:LegalResourceSubdivision;
   rdfs:label "Artikel 4 ViitU";
   rdfs:comment "Uitzicht op inkomensverbetering wordt in ieder geval aanwezig geacht bij personen die op de peildatum of in de referteperiode een MBO-, HBO- of WO-opleiding of een particuliere beroepsopleiding volgen, tenzij burgemeester en wethouders van oordeel zijn dat er sprake is van bijzondere individuele omstandigheden die in de weg staan aan inkomensverbetering.";
