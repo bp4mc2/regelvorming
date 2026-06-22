@@ -4,8 +4,8 @@ De uitwerking van regelvorming verloopt in lagen:
 
 1. De eerste laag is het [juridisch landschap](#juridischlandschap). Dit betreft de tekst zoals deze in juridische bronnen te vinden is. Deze tekst vormt een "landschap": de teksten zijn met elkaar verbonden en beïnvloeden elkaar, maar hoewel de tekst letterlijk zichtbaar is, blijft het grootste deel van de verbanden verborgen.
 2. De tweede laag is de [juridische routekaart](#juridischeroutekaart). Dit betreft een kaart van de "routes" die door het juridisch landschap zijn te maken. Door elk punt van het landschap (bijvoorbeeld een lid van een artikel van wet) zullen meerdere routes lopen. Maar de juridsiche routekaart laat wel zijn *welke* routes er allemaal mogelijk zijn. En ook laat het zien hoe je van de ene plek naar de andere kunt komen, en hoe die plekken met elkaar in verband staan (of juist niet).
-3. De derde laag is de kaart met [juridischeverbindingen](#juridischeverbindingen). Op deze kaart staan afgebeeld wat het gevolg is van een bepaalde gebeurtenis, omstandigheid of handeling. De kaart toont de verbindingen tussen zo'n (rechts)feit (bijvoorbeeld het aanvragen van een toeslag) en het gevolg (zoals de verplichting om de aanvraag te behandelen). Hiermee verbindt de deze kaart plekken op de route, waar via het landschap geen route loopt, maar via het recht wel een verbinding is. Je "vliegt" als het ware automatisch ("van rechtswege") van de ene naar de andere plek (of beter gezegd: "beam me up scotty...").
-4. De vierde laag geeft meer details over de juridische verbindingen: wat zijn de exacte voorwaarden en criteria die vervuld moeten zijn, voordat er sprake kan zijn van een verbinding.
+3. De derde laag is de kaart met [juridische verbindingen](#juridischeverbindingen). Op deze kaart staan afgebeeld wat het gevolg is van een bepaalde gebeurtenis, omstandigheid of handeling. De kaart toont de verbindingen tussen zo'n (rechts)feit (bijvoorbeeld het aanvragen van een toeslag) en het gevolg (zoals de verplichting om de aanvraag te behandelen). Hiermee verbindt de deze kaart plekken op de route, waar via het landschap geen route loopt, maar via het recht wel een verbinding is. Je "vliegt" als het ware automatisch ("van rechtswege") van de ene naar de andere plek (of beter gezegd: "beam me up scotty...").
+4. De vierde laag geeft meer [details over de juridische verbindingen](#detailleringjuridischeverbindingen): wat zijn de exacte voorwaarden en criteria die vervuld moeten zijn, voordat er sprake kan zijn van een verbinding.
 
 ## Eerste laag: het juridische landschap, de kern - tekstfragmenten die als grondslag dienen {#juridischlandschap}
 Als voorbeeld nemen we de casus van een individuele inkomenstoeslag. Deze wordt beschreven in artikel 36 van de participatiewet:
@@ -102,6 +102,6 @@ Merk op dat de regelgeving nog vrij veel ruimte laat aan het bestuursorgaan. Er 
 
 [TODO]
 
-## Vierde laag: voorwaarden en criteria {#}
+## Vierde laag: voorwaarden en criteria {#detailleringjuridischeverbindingen}
 
 [TODO]
