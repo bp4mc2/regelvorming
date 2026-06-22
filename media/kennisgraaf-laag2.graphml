@@ -282,8 +282,8 @@
                            xmlns:yed="http://www.yworks.com/xml/yed/3"
                            height="66.0"
                            width="230.3046875"
-                           x="898.8170352347818"
-                           y="483.94638868205516"/>
+                           x="368.20199428169167"
+                           y="509.05435591958303"/>
                <y:Fill color="#FFCC00" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
@@ -430,8 +430,8 @@ Van toepassing zijnde bijstandsnorm<y:LabelModel><y:SmartNodeLabelModel distance
                            xmlns:yed="http://www.yworks.com/xml/yed/3"
                            height="66.0"
                            width="99.681640625"
-                           x="898.8170352347818"
-                           y="387.94638868205516"/>
+                           x="433.51351771919167"
+                           y="413.05435591958303"/>
                <y:Fill color="#FFCC00" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
@@ -469,9 +469,9 @@ Referteperiode<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMode
                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                            xmlns:yed="http://www.yworks.com/xml/yed/3"
                            height="66.0"
-                           width="205.0"
-                           x="1323.2308265078182"
-                           y="387.94638868205516"/>
+                           width="131.345703125"
+                           x="-39.906390127497275"
+                           y="413.05435591958303"/>
                <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
@@ -936,8 +936,8 @@ Het college<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><
                            xmlns:yed="http://www.yworks.com/xml/yed/3"
                            height="66.0"
                            width="51.001953125"
-                           x="1182.9567655978526"
-                           y="387.94638868205516"/>
+                           x="206.48011459800813"
+                           y="413.05435591958303"/>
                <y:Fill color="#FFCC00" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
@@ -1073,9 +1073,9 @@ Het college<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><
                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                            xmlns:yed="http://www.yworks.com/xml/yed/3"
                            height="66.0"
-                           width="205.0"
-                           x="1323.2308265078182"
-                           y="483.94638868205516"/>
+                           width="130.478515625"
+                           x="-39.472796377497275"
+                           y="509.05435591958303"/>
                <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
@@ -1697,8 +1697,8 @@ Omstandigheden van de persoon<y:LabelModel><y:SmartNodeLabelModel distance="4.0"
                            xmlns:yed="http://www.yworks.com/xml/yed/3"
                            height="66.0"
                            width="51.001953125"
-                           x="1182.9567655978526"
-                           y="483.94638868205516"/>
+                           x="206.48011459800813"
+                           y="509.05435591958303"/>
                <y:Fill color="#FFCC00" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
