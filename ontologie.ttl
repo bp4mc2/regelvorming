@@ -31,14 +31,21 @@ was:Fragment a sh:NodeShape;
   rdfs:label "Fragment";
   sh:targetClass eli:LegalResourceSubdivision;
   dct:subject wab:Fragment;
-  sh:property was:Fragment.title;
+  sh:property was:Fragment.titel;
+  sh:property was:Fragment.inhoud;
   sh:property was:Fragment.onderdeelVan;
   sh:property was:Fragment.verwijstNaar;
 .
-was:Fragment.title a sh:PropertyShape;
+was:Fragment.titel a sh:PropertyShape;
   rdfs:label "titel";
   sh:path dct:title;
   sh:minCount 1;
+  sh:maxCount 1;
+  sh:datatype xsd:string;
+.
+was:Fragment.inhoud a sh:PropertyShape;
+  rdfs:label "inhoud";
+  sh:path rdfs:comment;
   sh:maxCount 1;
   sh:datatype xsd:string;
 .
@@ -65,6 +72,9 @@ was:Bepaling a sh:NodeShape;
   sh:property was:Bepaling.opGrondVan;
   sh:property was:Bepaling.normeert;
   sh:property was:Bepaling.soort;
+  sh:property was:Bepaling.beperkt;
+  sh:property was:Bepaling.verwijstNaar;
+  sh:property was:Bepaling.beschrijft;
 .
 was:Bepaling.opGrondVan a sh:PropertyShape;
   rdfs:label "op grond van";
@@ -84,6 +94,22 @@ was:Bepaling.soort a sh:PropertyShape;
   sh:node was:Bepalingsoorten;
   sh:minCount 1;
   sh:maxCount 1;
+.
+was:Bepaling.beperkt a sh:PropertyShape;
+  rdfs:label "beperkt";
+  sh:path wa:beperkt;
+  sh:class wa:Bepaling;
+  sh:maxCount 1;
+.
+was:Bepaling.verwijstNaar a sh:PropertyShape;
+  rdfs:label "verwijst naar";
+  sh:path skos:related;
+  sh:class skos:Concept;
+.
+was:Bepaling.beschrijft a sh:PropertyShape;
+  rdfs:label "beschrijft";
+  sh:path dct:subject;
+  sh:class skos:Concept;
 .
 
 was:Bepalingsoorten a sh:NodeShape;
@@ -111,11 +137,31 @@ was:Handeling a sh:NodeShape;
   sh:targetClass wa:Handeling;
   dct:subject wab:Handeling;
   sh:property was:Handeling.naam;
+  sh:property was:Handeling.actor;
 .
 was:Handeling.naam a sh:PropertyShape;
-  rdfs:label "Naam";
+  rdfs:label "naam";
   sh:path rdfs:label;
   sh:minCount 1;
   sh:maxCount 1;
   sh:datatype xsd:string;
+.
+was:Handeling.actor a sh:PropertyShape;
+  rdfs:label "actor";
+  sh:path wa:actor;
+  sh:minCount 1;
+  sh:maxCount 1;
+  sh:node was:Actor;
+.
+was:Actor a sh:NodeShape;
+  rdfs:label "Actor";
+  sh:targetClass wa:Actor;
+  dct:subject wab:Actor;
+.
+wa:Actor rdfs:subClassOf skos:Concept.
+
+was:Begrip a sh:NodeShape;
+  rdfs:label "Begrip";
+  sh:targetClass skos:Concept;
+  dct:subject wab:Begrip;
 .

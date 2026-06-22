@@ -319,7 +319,7 @@ wab:Verbod a skos:Concept;
   skos:definition "Een verbod is een norm waarmee een handeling wordt gekwalificeerd als onrechtmatig";
   skosthes:broaderGeneric wab:Gedragsnorm;
 .
-wab:VerbodNorm a rdf:Statment;
+wab:VerbodNorm a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Verbod;
   rdf:object wab:Gedragsnorm;
@@ -332,7 +332,7 @@ wab:Verplichting a skos:Concept;
   skos:definition "Een verplichting is een norm waarmee een handeling wordt gekwalificeerd als verplicht om te verrichten";
   skosthes:broaderGeneric wab:Gedragsnorm;
 .
-wab:VerplichtingNorm a rdf:Statment;
+wab:VerplichtingNorm a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Verplichting;
   rdf:object wab:Gedragsnorm;
@@ -345,7 +345,7 @@ wab:Rechtschepping a skos:Concept;
   skos:definition "Een rechtschepping is een norm waarmee het uitvoeren van een rechtshandeling mogelijk wordt gemaakt";
   skosthes:broaderGeneric wab:Gedragsnorm;
 .
-wab:RechtscheppingNorm a rdf:Statment;
+wab:RechtscheppingNorm a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Rechtschepping;
   rdf:object wab:Gedragsnorm;
@@ -358,7 +358,7 @@ wab:Bevoegdheid a skos:Concept;
   skos:definition "Een bevoegdheid is een norm waarmee het uitvoeren van een handeling door een overheidsorgaan mogelijk wordt gemaakt";
   skosthes:broaderGeneric wab:Gedragsnorm;
 .
-wab:BevoegdheidNorm a rdf:Statment;
+wab:BevoegdheidNorm a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Bevoegdheid;
   rdf:object wab:Gedragsnorm;
@@ -372,7 +372,7 @@ wab:Vrijstelling a skos:Concept;
   skosthes:broaderGeneric wab:Gedragsnorm;
   skos:related wab:Gedragsnorm;
 .
-wab:VrijstellingISANorm a rdf:Statment;
+wab:VrijstellingISANorm a rdf:Statement;
   rdfs:label "is een";
   rdf:subject wab:Vrijstelling;
   rdf:object wab:Gedragsnorm;

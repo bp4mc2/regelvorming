@@ -3,7 +3,8 @@
 # Dit artikel betreft het verlenen van een individuele inkomenstoeslag
 #
 
-@prefix wa: <http://bpm4mc2.org/def/wetsanalyse#>.
+@prefix wa: <http://bpm4mc2.org/def/regelvorming#>.
+@prefix wab: <http://bpm4mc2.org/regelvorming/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix dct: <http://purl.org/dc/terms/>.
@@ -12,12 +13,57 @@
 @prefix ex: <http://example.org/ex#>.
 @prefix doc: <http://example.org/doc#>
 
+# ======
+# ~~~~~~
+# LAAG 1
+# ~~~~~~
+# ======
 
 # ==========================================
 # Participatiewet
 # ==========================================
 doc:Participatiewet a eli:LegalResource;
   rdfs:label "Participatiewet";
+.
+
+doc:Artikel1Pw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 1 Pw";
+  rdfs:comment "In deze wet en de daarop berustende bepalingen wordt verstaan onder:";
+  dct:isPartOf doc:Participatiewet;
+.
+doc:Artikel1subbPw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 1 sub b";
+  rdfs:comment "college: het college van burgemeester en wethouders, bedoeld in artikel 40, eerste lid;";
+  dct:isPartOf doc:Artikel1Pw;
+  eli:cites doc:Artikel40Pw;
+.
+doc:Artikel1submPw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 1 sub m";
+  rdfs:comment "pensioengerechtigde leeftijd: pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;";
+  dct:isPartOf doc:Artikel1Pw;
+  eli:cites doc:Artikel7alid1AOW;
+.
+
+doc:Artikel8Pw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 8 Pw";
+  dct:isPartOf doc:Participatiewet;
+.
+doc:Artikel8lid1Pw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 8 lid 1 Pw";
+  rdfs:comment '''De gemeenteraad stelt bij verordening regels met betrekking tot:
+a. het verlagen van de bijstand, bedoeld in artikel 18, tweede lid en de periode van de verlaging van de bijstand, bedoeld in artikel 18, vijfde en zesde lid;
+b. het verlenen van een individuele inkomenstoeslag als bedoeld in artikel 36;
+c. het verlagen van de bijstand, bedoeld in artikel 9a, twaalfde lid.''';
+  dct:isPartOf doc:Artikel8Pw;
+  eli:cites doc:Artikel18Pw;
+  eli:cites doc:Artikel36;
+  eli:cites doc:Artikel9alid12;
+.
+doc:Artikel8lid2Pw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 8 lid 2 Pw";
+  rdfs:comment "De regels, bedoeld in het eerste lid, hebben voor zover het gaat om het eerste lid, onderdeel b, in ieder geval betrekking op de hoogte van de individuele inkomenstoeslag en de wijze waarop invulling wordt gegeven aan de begrippen langdurig en laag inkomen.";
+  dct:isPartOf doc:Artikel8Pw;
+  eli:cites doc:Artikel8lid1Pw;
 .
 
 doc:Artikel31Pw a eli:LegalResourceSubdivision;
@@ -228,4 +274,164 @@ b. voorzover het vermogen gebonden in de woning met bijbehorend erf hoger is dan
 doc:Artikel52Pw a eli:LegalResourceSubdivision;
   rdfs:label "Artikel 52 Pw";
   dct:isPartOf doc:Participatiewet;
+.
+
+# ==========================================
+# Verordening individuele inkomenstoeslag gemeente Utrecht
+# ==========================================
+
+doc:VerordeningIITUtrecht a eli:LegalResource;
+  rdfs:label "Verordening IIT Utrecht";
+.
+doc:Artikel2ViitU a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 2 ViitU";
+  rdfs:comment "Een persoon heeft een langdurig laag inkomen als gedurende de referteperiode, over de gehele periode bezien, het in aanmerking te nemen inkomen niet hoger is dan 125% van de van toepassing zijnde bijstandsnorm.";
+  dct:isPartOf doc:VerordeningIITUtrecht;
+.
+doc:Artikel4ViitU a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 4 ViitU";
+  rdfs:comment "Uitzicht op inkomensverbetering wordt in ieder geval aanwezig geacht bij personen die op de peildatum of in de referteperiode een MBO-, HBO- of WO-opleiding of een particuliere beroepsopleiding volgen, tenzij burgemeester en wethouders van oordeel zijn dat er sprake is van bijzondere individuele omstandigheden die in de weg staan aan inkomensverbetering.";
+  dct:isPartOf doc:VerordeningIITUtrecht;
+.
+
+# ======
+# ~~~~~~
+# LAAG 2
+# ~~~~~~
+# ======
+
+ex:BevoegdheidTotVerlenenIndividueleInkomenstoeslag a wa:Bepaling;
+  rdfs:label "Bevoegdheid";
+  wa:soort wab:Bevoegdheid;
+  wa:normeert ex:VerlenenIndividueleInkomenstoeslag;
+  dct:source doc:Artikel36lid1Pw;
+.
+ex:VerlenenIndividueleInkomenstoeslag a wa:Handeling;
+  rdfs:label "Verlenen individuele inkomenstoeslag";
+  wa:actor ex:HetCollege;
+.
+ex:HetCollege a skos:Concept;
+  rdfs:label "Het college";
+.
+
+ex:PersoonVoldoetAanDeCriteria a wa:Bepaling;
+  rdfs:label "Persoon voldoet aan de criteria";
+  wa:soort wab:Voorwaarde;
+  wa:beperkt ex:BevoegdheidTotVerlenenIndividueleInkomenstoeslag;
+  dct:source doc:Artikel36lid1Pw;
+  skos:related ex:PensioengerechtigdeLeeftijd, ex:LangdurigEnLaagInkomen, ex:VermogenAlsBedoeldInArtikel34, ex:UitzichtOpInkomensverbetering;
+.
+
+ex:ErIsGeletOpDeOMstandigheden a wa:Bepaling;
+  rdfs:label "Er is gelet op de omstandigheden";
+  wa:soort wab:Voorwaarde;
+  wa:beperkt ex:BevoegdheidTotVerlenenIndividueleInkomenstoeslag;
+  dct:source doc:Artikel36lid1Pw;
+  skos:related ex:OmstandighedenVanDePersoon;
+.
+
+ex:PensioengerechtigdeLeeftijd a skos:Concept;
+  rdfs:label "Pensioengerechtigde leeftijd";
+.
+
+ex:LangdurigEnLaagInkomen a skos:Concept;
+  rdfs:label "Langdurig en laag inkomen";
+.
+
+ex:VermogenAlsBedoeldInArtikel34 a skos:Concept;
+  rdfs:label "Vermogen als bedoeld in artikel 34";
+.
+
+ex:UitzichtOpInkomensverbetering a skos:Concept;
+  rdfs:label "Uitzicht op inkomensverbetering";
+.
+
+ex:OmstandighedenVanDePersoon a skos:Concept;
+  rdfs:label "Omstandigheden van de persoon";
+.
+
+ex:HetCollegeDefinitie a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:HetCollege;
+  dct:source doc:Artikel1subbPw;
+.
+
+ex:PensioengerechtigdeLeeftijdDefinitie a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:PensioengerechtigdeLeeftijd;
+  dct:source doc:Artikel1submPw;
+.
+
+ex:LangdurigEnLaagInkomenDefinitie a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:LangdurigEnLaagInkomen;
+  dct:source doc:Artikel8lid2Pw;
+.
+
+ex:VermogenAlsBedoeldInArtikel34Definitie a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:VermogenAlsBedoeldInArtikel34;
+  dct:source doc:Artikel34Pw;
+.
+
+ex:OmstandighedenVanDePersoonDefinitie a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:OmstandighedenVanDePersoon;
+  dct:source doc:Artikel36lid2Pw;
+.
+
+ex:DelegatieStellenVanRegelsVerlenenIndividueleInkomenstoeslag a wa:Bepaling;
+  rdfs:label "Delegatie";
+  wa:soort wab:Delegatie;
+  dct:subject ex:VerlenenIndividueleInkomenstoeslag;
+  dct:source doc:Artikel8lid1Pw;
+.
+
+ex:DelegatieDefinierenLangdurigEnLaagInkomen a wa:Bepaling;
+  rdfs:label "Delegatie";
+  wa:soort wab:Delegatie;
+  dct:subject ex:LangdurigEnLaagInkomen;
+  dct:source doc:Artikel8lid2Pw;
+.
+
+ex:LangdurigEnLaagInkomenDefinitieUtrecht a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:LangdurigEnLaagInkomen;
+  dct:source doc:Artikel2ViitU;
+  skos:related ex:Referteperiode, ex:VanToepassingZijndeBijstandsnorm;
+.
+
+ex:Referteperiode a skos:Concept;
+  rdfs:label "Referteperiode";
+.
+
+ex:VanToepassingZijndeBijstandsnorm a skos:Concept;
+  rdfs:label "Van toepassing zijnde bijstandsnorm";
+.
+
+ex:UitzichtOpInkomensverbeteringDefinitieUtrecht a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:UitzichtOpInkomensverbetering;
+  dct:source doc:Artikel4ViitU;
+.
+
+ex:ReferteperiodeDefinitie a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:Referteperiode;
+  dct:source doc:Artikel1subdViitU;
+.
+
+ex:VanToepassingZijndeBijstandsnormDefinitie a wa:Bepaling;
+  rdfs:label "Begrip";
+  wa:soort wab:Begripsbepaling;
+  dct:subject ex:VanToepassingZijndeBijstandsnorm;
+  dct:source doc:Artikel1subeViitU;
 .
