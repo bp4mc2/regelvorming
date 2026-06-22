@@ -340,6 +340,36 @@ Van toepassing zijnde bijstandsnorm<y:LabelModel><y:SmartNodeLabelModel distance
             </y:ShapeNode>
          </data>
       </node>
+      <node id="http://example.org/doc#Artikel18Pw">
+         <data key="d3">http://example.org/doc#Artikel18Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel18 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
       <node id="http://example.org/ex#PersoonVoldoetAanDeCriteria">
          <data key="d3">http://example.org/ex#PersoonVoldoetAanDeCriteria</data>
          <data key="d6">
@@ -371,6 +401,36 @@ Van toepassing zijnde bijstandsnorm<y:LabelModel><y:SmartNodeLabelModel distance
                             x="86.443359375"
                             xml:space="preserve"
                             y="23.93359375">Persoon voldoet aan de criteria<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel9alid12Pw">
+         <data key="d3">http://example.org/doc#Artikel9alid12Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 9a lid 12 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
                                                      offsetX="0.0"
                                                      offsetY="0.0"
                                                      upX="0.0"
@@ -916,6 +976,36 @@ Het college<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><
                             x="86.443359375"
                             xml:space="preserve"
                             y="23.93359375">Artikel 49 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel9aPw">
+         <data key="d3">http://example.org/doc#Artikel9aPw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 9a Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
                                                      offsetX="0.0"
                                                      offsetY="0.0"
                                                      upX="0.0"
@@ -2032,6 +2122,36 @@ Vermogen als bedoeld in artikel 34<y:LabelModel><y:SmartNodeLabelModel distance=
                             x="86.443359375"
                             xml:space="preserve"
                             y="23.93359375">Artikel 31 lid 2 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
+      <node id="http://example.org/doc#Artikel40Pw">
+         <data key="d3">http://example.org/doc#Artikel40Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel40Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
                                                      offsetX="0.0"
                                                      offsetY="0.0"
                                                      upX="0.0"

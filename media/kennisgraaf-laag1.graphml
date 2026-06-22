@@ -17,7 +17,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -47,7 +47,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -86,7 +86,7 @@
                            width="90.962890625"
                            x="1091.5888335192499"
                            y="-864.3792773338484"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -125,7 +125,7 @@
                            width="90.962890625"
                            x="1089.0185546875"
                            y="-253.901465077887"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -164,7 +164,7 @@
                            width="90.962890625"
                            x="550.0185546875"
                            y="-439.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -203,7 +203,7 @@
                            width="120.634765625"
                            x="-312.3173828125"
                            y="-337.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -242,7 +242,7 @@
                            width="90.962890625"
                            x="1204.0518443641085"
                            y="-916.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -281,7 +281,7 @@
                            width="90.962890625"
                            x="1439.834508019782"
                            y="62.80361753287889"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -306,6 +306,36 @@
             </y:ShapeNode>
          </data>
       </node>
+      <node id="http://example.org/doc#Artikel18Pw">
+         <data key="d3">http://example.org/doc#Artikel18Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel18 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
       <node id="http://example.org/doc#Participatiewet">
          <data key="d3">http://example.org/doc#Participatiewet</data>
          <data key="d6">
@@ -320,7 +350,7 @@
                            width="98.984375"
                            x="1769.5078125"
                            y="-608.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#D0D0D0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -345,12 +375,42 @@
             </y:ShapeNode>
          </data>
       </node>
+      <node id="http://example.org/doc#Artikel9alid12Pw">
+         <data key="d3">http://example.org/doc#Artikel9alid12Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 9a lid 12 Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
       <node id="http://example.org/doc#Artikel1subdViitU">
          <data key="d3">http://example.org/doc#Artikel1subdViitU</data>
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -389,7 +449,7 @@
                            width="120.634765625"
                            x="180.6826171875"
                            y="-828.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -428,7 +488,7 @@
                            width="120.634765625"
                            x="944.3133900108915"
                            y="-75.1518087664393"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -458,7 +518,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -497,7 +557,7 @@
                            width="120.634765625"
                            x="691.9290730217422"
                            y="-690.8107960741548"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -536,7 +596,7 @@
                            width="120.634765625"
                            x="1284.3154408519342"
                            y="-322.1777583114978"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -575,7 +635,7 @@
                            width="120.634765625"
                            x="366.1826171875"
                            y="31.473827699018557"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -614,7 +674,7 @@
                            width="120.634765625"
                            x="1074.1826171875"
                            y="-474.8481912335606"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -653,7 +713,7 @@
                            width="120.634765625"
                            x="1204.0518443641085"
                            y="62.803617532878775"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -692,7 +752,7 @@
                            width="120.634765625"
                            x="1645.9452966754557"
                            y="62.80361753287889"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -731,7 +791,7 @@
                            width="90.962890625"
                            x="1090.5185546875"
                            y="-752.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -770,7 +830,7 @@
                            width="90.962890625"
                            x="1089.4482758557501"
                            y="-639.6207226661516"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -795,12 +855,42 @@
             </y:ShapeNode>
          </data>
       </node>
+      <node id="http://example.org/doc#Artikel9aPw">
+         <data key="d3">http://example.org/doc#Artikel9aPw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel 9a Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
       <node id="http://example.org/doc#Artikel8lid1Pw">
          <data key="d3">http://example.org/doc#Artikel8lid1Pw</data>
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -839,7 +929,7 @@
                            width="120.634765625"
                            x="-312.3173828125"
                            y="-669.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -878,7 +968,7 @@
                            width="120.634765625"
                            x="512.8466796875"
                            y="-1052.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -908,7 +998,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -938,7 +1028,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -968,7 +1058,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -998,7 +1088,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#D0D0D0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1037,7 +1127,7 @@
                            width="120.634765625"
                            x="56.6826171875"
                            y="-559.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1076,7 +1166,7 @@
                            width="90.962890625"
                            x="542.5185546875"
                            y="-790.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1106,7 +1196,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1145,7 +1235,7 @@
                            width="90.962890625"
                            x="1183.5185546875"
                            y="-1012.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1184,7 +1274,7 @@
                            width="90.962890625"
                            x="637.5185546875"
                            y="-932.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1214,7 +1304,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1253,7 +1343,7 @@
                            width="120.634765625"
                            x="366.1826171875"
                            y="-951.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1292,7 +1382,7 @@
                            width="120.634765625"
                            x="864.0497935230658"
                            y="-322.17775831149777"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1331,7 +1421,7 @@
                            width="120.634765625"
                            x="1204.0518443641085"
                            y="-75.15180876643936"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1370,7 +1460,7 @@
                            width="120.634765625"
                            x="180.6826171875"
                            y="-1118.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1409,7 +1499,7 @@
                            width="120.634765625"
                            x="126.28458011007365"
                            y="-253.901465077887"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1434,6 +1524,36 @@
             </y:ShapeNode>
          </data>
       </node>
+      <node id="http://example.org/doc#Artikel40Pw">
+         <data key="d3">http://example.org/doc#Artikel40Pw</data>
+         <data key="d6">
+            <y:ShapeNode>
+               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
+               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
+                            fontStyle="plain"
+                            hasBackgroundColor="false"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            textColor="#000000"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="32.11328125"
+                            x="86.443359375"
+                            xml:space="preserve"
+                            y="23.93359375">Artikel40Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
+                                                     offsetX="0.0"
+                                                     offsetY="0.0"
+                                                     upX="0.0"
+                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+               <y:Shape type="ellipse"/>
+            </y:ShapeNode>
+         </data>
+      </node>
       <node id="http://example.org/doc#Artikel37lid2Pw">
          <data key="d3">http://example.org/doc#Artikel37lid2Pw</data>
          <data key="d6">
@@ -1448,7 +1568,7 @@
                            width="120.634765625"
                            x="1424.9985705197819"
                            y="283.75034368855245"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1478,7 +1598,7 @@
          <data key="d6">
             <y:ShapeNode>
                <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1517,7 +1637,7 @@
                            width="120.634765625"
                            x="1424.998570519782"
                            y="-158.14310862279473"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1556,7 +1676,7 @@
                            width="120.634765625"
                            x="-128.3173828125"
                            y="-607.5"/>
-               <y:Fill color="#FFCC00" transparent="false"/>
+               <y:Fill color="#A0A0A0" transparent="false"/>
                <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
                             fontStyle="plain"
@@ -1612,7 +1732,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -1656,7 +1776,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -1700,7 +1820,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -1744,7 +1864,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -1788,7 +1908,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -1832,7 +1952,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -1876,7 +1996,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -1920,7 +2040,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -1964,7 +2084,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2008,7 +2128,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2052,7 +2172,95 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel18Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel18Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel9alid12Pw"
+            target="http://example.org/doc#Artikel9aPw">
+         <data key="d7">http://example.org/doc#Artikel9alid12Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel9aPw</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2096,7 +2304,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2140,7 +2348,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2184,7 +2392,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2228,7 +2436,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2272,7 +2480,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2285,80 +2493,6 @@
             </y:PolyLineEdge>
          </data>
       </edge>
-      <edge source="http://example.org/doc#Artikel1submPw"
-            target="http://example.org/doc#Artikel7alid1AOW">
-         <data key="d7">http://example.org/doc#Artikel1submPwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel7alid1AOW</data>
-         <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
-         <data key="d10">
-            <y:PolyLineEdge>
-               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-               <y:LineStyle color="#000000" type="line" width="1.0"/>
-               <y:Arrows source="none" target="standard"/>
-               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
-                            backgroundColor="#FFFFFF"
-                            configuration="AutoFlippingLabel"
-                            distance="2.0"
-                            fontFamily="Dialog"
-                            fontSize="12"
-                            fontStyle="plain"
-                            hasLineColor="false"
-                            height="18.1328125"
-                            horizontalTextPosition="center"
-                            iconTextGap="4"
-                            modelName="custom"
-                            preferredPlacement="anywhere"
-                            ratio="0.5"
-                            textColor="#000000"
-                            upX="0.4595559136184651"
-                            upY="-0.8881488401491598"
-                            verticalTextPosition="bottom"
-                            visible="true"
-                            width="65.658203125"
-                            x="66.16976041841713"
-                            xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
-                                                     ratio="0.5"
-                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
-                                                  angleRotationOnRightSide="co"
-                                                  distance="-1.0"
-                                                  frozen="true"
-                                                  placement="anywhere"
-                                                  side="anywhere"
-                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
-               <y:BendStyle smoothed="false"/>
-            </y:PolyLineEdge>
-         </data>
-      </edge>
-      <node id="http://example.org/doc#Artikel7alid1AOW">
-         <data key="d3">http://example.org/doc#Artikel7alid1AOW</data>
-         <data key="d6">
-            <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#00CCFF" transparent="false"/>
-               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
-                            fontStyle="plain"
-                            hasBackgroundColor="false"
-                            hasLineColor="false"
-                            height="18.1328125"
-                            horizontalTextPosition="center"
-                            iconTextGap="4"
-                            modelName="custom"
-                            textColor="#000000"
-                            verticalTextPosition="bottom"
-                            visible="true"
-                            width="32.11328125"
-                            x="86.443359375"
-                            xml:space="preserve"
-                            y="23.93359375">Artikel7alid1AOW<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
-                                                     offsetX="0.0"
-                                                     offsetY="0.0"
-                                                     upX="0.0"
-                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-               <y:Shape type="ellipse"/>
-            </y:ShapeNode>
-         </data>
-      </node>
       <edge source="http://example.org/doc#Artikel36lid4Pw"
             target="http://example.org/doc#Artikel36Pw">
          <data key="d7">http://example.org/doc#Artikel36lid4Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel36Pw</data>
@@ -2390,7 +2524,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2434,7 +2568,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2478,7 +2612,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2522,7 +2656,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2566,7 +2700,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2610,7 +2744,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2654,7 +2788,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2698,7 +2832,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2742,7 +2876,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2786,7 +2920,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2830,7 +2964,51 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel9aPw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel9aPwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2874,7 +3052,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2918,7 +3096,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -2931,39 +3109,9 @@
             </y:PolyLineEdge>
          </data>
       </edge>
-      <node id="http://example.org/doc#Artikel18Pw">
-         <data key="d3">http://example.org/doc#Artikel18Pw</data>
-         <data key="d6">
-            <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#00CCFF" transparent="false"/>
-               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
-                            fontStyle="plain"
-                            hasBackgroundColor="false"
-                            hasLineColor="false"
-                            height="18.1328125"
-                            horizontalTextPosition="center"
-                            iconTextGap="4"
-                            modelName="custom"
-                            textColor="#000000"
-                            verticalTextPosition="bottom"
-                            visible="true"
-                            width="32.11328125"
-                            x="86.443359375"
-                            xml:space="preserve"
-                            y="23.93359375">Artikel18Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
-                                                     offsetX="0.0"
-                                                     offsetY="0.0"
-                                                     upX="0.0"
-                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-               <y:Shape type="ellipse"/>
-            </y:ShapeNode>
-         </data>
-      </node>
       <edge source="http://example.org/doc#Artikel8lid1Pw"
-            target="http://example.org/doc#Artikel36">
-         <data key="d7">http://example.org/doc#Artikel8lid1Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel36</data>
+            target="http://example.org/doc#Artikel36Pw">
+         <data key="d7">http://example.org/doc#Artikel8lid1Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel36Pw</data>
          <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
          <data key="d10">
             <y:PolyLineEdge>
@@ -2992,7 +3140,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3005,39 +3153,9 @@
             </y:PolyLineEdge>
          </data>
       </edge>
-      <node id="http://example.org/doc#Artikel36">
-         <data key="d3">http://example.org/doc#Artikel36</data>
-         <data key="d6">
-            <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#00CCFF" transparent="false"/>
-               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
-                            fontStyle="plain"
-                            hasBackgroundColor="false"
-                            hasLineColor="false"
-                            height="18.1328125"
-                            horizontalTextPosition="center"
-                            iconTextGap="4"
-                            modelName="custom"
-                            textColor="#000000"
-                            verticalTextPosition="bottom"
-                            visible="true"
-                            width="32.11328125"
-                            x="86.443359375"
-                            xml:space="preserve"
-                            y="23.93359375">Artikel36<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
-                                                     offsetX="0.0"
-                                                     offsetY="0.0"
-                                                     upX="0.0"
-                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-               <y:Shape type="ellipse"/>
-            </y:ShapeNode>
-         </data>
-      </node>
       <edge source="http://example.org/doc#Artikel8lid1Pw"
-            target="http://example.org/doc#Artikel9alid12">
-         <data key="d7">http://example.org/doc#Artikel8lid1Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel9alid12</data>
+            target="http://example.org/doc#Artikel9alid12Pw">
+         <data key="d7">http://example.org/doc#Artikel8lid1Pwhttp://data.europa.eu/eli/ontology#citeshttp://example.org/doc#Artikel9alid12Pw</data>
          <data key="d8">http://data.europa.eu/eli/ontology#cites</data>
          <data key="d10">
             <y:PolyLineEdge>
@@ -3066,7 +3184,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3079,36 +3197,6 @@
             </y:PolyLineEdge>
          </data>
       </edge>
-      <node id="http://example.org/doc#Artikel9alid12">
-         <data key="d3">http://example.org/doc#Artikel9alid12</data>
-         <data key="d6">
-            <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#00CCFF" transparent="false"/>
-               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
-                            fontStyle="plain"
-                            hasBackgroundColor="false"
-                            hasLineColor="false"
-                            height="18.1328125"
-                            horizontalTextPosition="center"
-                            iconTextGap="4"
-                            modelName="custom"
-                            textColor="#000000"
-                            verticalTextPosition="bottom"
-                            visible="true"
-                            width="32.11328125"
-                            x="86.443359375"
-                            xml:space="preserve"
-                            y="23.93359375">Artikel9alid12<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
-                                                     offsetX="0.0"
-                                                     offsetY="0.0"
-                                                     upX="0.0"
-                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-               <y:Shape type="ellipse"/>
-            </y:ShapeNode>
-         </data>
-      </node>
       <edge source="http://example.org/doc#Artikel34lid3Pw"
             target="http://example.org/doc#Artikel34Pw">
          <data key="d7">http://example.org/doc#Artikel34lid3Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Artikel34Pw</data>
@@ -3140,7 +3228,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3184,7 +3272,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3228,7 +3316,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3272,7 +3360,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3316,7 +3404,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3360,7 +3448,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3404,7 +3492,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3448,7 +3536,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3492,7 +3580,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3536,7 +3624,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3580,7 +3668,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3624,7 +3712,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3637,36 +3725,6 @@
             </y:PolyLineEdge>
          </data>
       </edge>
-      <node id="http://example.org/doc#Artikel40Pw">
-         <data key="d3">http://example.org/doc#Artikel40Pw</data>
-         <data key="d6">
-            <y:ShapeNode>
-               <y:Geometry height="66.0" width="205.0" x="365.0" y="294.0"/>
-               <y:Fill color="#00CCFF" transparent="false"/>
-               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12"
-                            fontStyle="plain"
-                            hasBackgroundColor="false"
-                            hasLineColor="false"
-                            height="18.1328125"
-                            horizontalTextPosition="center"
-                            iconTextGap="4"
-                            modelName="custom"
-                            textColor="#000000"
-                            verticalTextPosition="bottom"
-                            visible="true"
-                            width="32.11328125"
-                            x="86.443359375"
-                            xml:space="preserve"
-                            y="23.93359375">Artikel40Pw<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0"
-                                                     offsetX="0.0"
-                                                     offsetY="0.0"
-                                                     upX="0.0"
-                                                     upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-               <y:Shape type="ellipse"/>
-            </y:ShapeNode>
-         </data>
-      </node>
       <edge source="http://example.org/doc#Artikel32Pw"
             target="http://example.org/doc#Participatiewet">
          <data key="d7">http://example.org/doc#Artikel32Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
@@ -3698,7 +3756,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3742,7 +3800,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3786,7 +3844,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3830,7 +3888,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3874,7 +3932,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3918,7 +3976,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -3962,7 +4020,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4006,7 +4064,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4050,7 +4108,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4094,7 +4152,51 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                                                     ratio="0.5"
+                                                     segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
+                                                  angleRotationOnRightSide="co"
+                                                  distance="-1.0"
+                                                  frozen="true"
+                                                  placement="anywhere"
+                                                  side="anywhere"
+                                                  sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+               <y:BendStyle smoothed="false"/>
+            </y:PolyLineEdge>
+         </data>
+      </edge>
+      <edge source="http://example.org/doc#Artikel40Pw"
+            target="http://example.org/doc#Participatiewet">
+         <data key="d7">http://example.org/doc#Artikel40Pwhttp://purl.org/dc/terms/isPartOfhttp://example.org/doc#Participatiewet</data>
+         <data key="d8">http://purl.org/dc/terms/isPartOf</data>
+         <data key="d10">
+            <y:PolyLineEdge>
+               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+               <y:LineStyle color="#000000" type="line" width="1.0"/>
+               <y:Arrows source="none" target="standard"/>
+               <y:EdgeLabel alignment="center" anchorX="66.16976041841713" anchorY="44.44649798225862"
+                            backgroundColor="#FFFFFF"
+                            configuration="AutoFlippingLabel"
+                            distance="2.0"
+                            fontFamily="Dialog"
+                            fontSize="12"
+                            fontStyle="plain"
+                            hasLineColor="false"
+                            height="18.1328125"
+                            horizontalTextPosition="center"
+                            iconTextGap="4"
+                            modelName="custom"
+                            preferredPlacement="anywhere"
+                            ratio="0.5"
+                            textColor="#000000"
+                            upX="0.4595559136184651"
+                            upY="-0.8881488401491598"
+                            verticalTextPosition="bottom"
+                            visible="true"
+                            width="65.658203125"
+                            x="66.16976041841713"
+                            xml:space="preserve"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4138,7 +4240,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4182,7 +4284,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4226,7 +4328,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4270,7 +4372,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4314,7 +4416,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">isPartOf<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">onderdeel van<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4358,7 +4460,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"
@@ -4402,7 +4504,7 @@
                             width="65.658203125"
                             x="66.16976041841713"
                             xml:space="preserve"
-                            y="28.341861591741434">cites<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
+                            y="28.341861591741434">citeert<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="true" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center"
                                                      ratio="0.5"
                                                      segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute"
                                                   angleRotationOnRightSide="co"

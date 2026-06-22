@@ -41,7 +41,7 @@ doc:Artikel1submPw a eli:LegalResourceSubdivision;
   rdfs:label "Artikel 1 sub m";
   rdfs:comment "pensioengerechtigde leeftijd: pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;";
   dct:isPartOf doc:Artikel1Pw;
-  eli:cites doc:Artikel7alid1AOW;
+#  eli:cites doc:Artikel7alid1AOW;
 .
 
 doc:Artikel8Pw a eli:LegalResourceSubdivision;
@@ -56,14 +56,28 @@ b. het verlenen van een individuele inkomenstoeslag als bedoeld in artikel 36;
 c. het verlagen van de bijstand, bedoeld in artikel 9a, twaalfde lid.''';
   dct:isPartOf doc:Artikel8Pw;
   eli:cites doc:Artikel18Pw;
-  eli:cites doc:Artikel36;
-  eli:cites doc:Artikel9alid12;
+  eli:cites doc:Artikel36Pw;
+  eli:cites doc:Artikel9alid12Pw;
 .
 doc:Artikel8lid2Pw a eli:LegalResourceSubdivision;
   rdfs:label "Artikel 8 lid 2 Pw";
   rdfs:comment "De regels, bedoeld in het eerste lid, hebben voor zover het gaat om het eerste lid, onderdeel b, in ieder geval betrekking op de hoogte van de individuele inkomenstoeslag en de wijze waarop invulling wordt gegeven aan de begrippen langdurig en laag inkomen.";
   dct:isPartOf doc:Artikel8Pw;
   eli:cites doc:Artikel8lid1Pw;
+.
+
+doc:Artikel9aPw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 9a Pw";
+  dct:isPartOf doc:Participatiewet;
+.
+doc:Artikel9alid12Pw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel 9a lid 12 Pw";
+  dct:isPartOf doc:Artikel9aPw;
+.
+
+doc:Artikel18Pw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel18 Pw";
+  dct:isPartOf doc:Participatiewet;
 .
 
 doc:Artikel31Pw a eli:LegalResourceSubdivision;
@@ -240,6 +254,11 @@ doc:Artikel37lid5Pw a eli:LegalResourceSubdivision;
   rdfs:label "Artikel 37 lid 5 Pw";
   rdfs:comment "Met ingang van 1 januari 2028 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 2,5 procentpunt. Het gewijzigde percentage wordt door of namens Onze Minister medegedeeld in de Staatscourant. Dit lid vervalt op het moment dat het in het tweede lid genoemde percentage de waarde van 100 heeft bereikt.";
   dct:isPartOf doc:Artikel37Pw;
+.
+
+doc:Artikel40Pw a eli:LegalResourceSubdivision;
+  rdfs:label "Artikel40Pw";
+  dct:isPartOf doc:Participatiewet;
 .
 
 doc:Artikel43Pw a eli:LegalResourceSubdivision;
