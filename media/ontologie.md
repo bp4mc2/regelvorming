@@ -30,12 +30,14 @@
 
 |Eigenschap|Kardinaliteit|Datatype/klasse|
 |----------|-------------|---------------|
-|op grond van|1..1|[Fragment](#TFragment)|
+|invulling van|0..n|[Bepaling](#TBepaling)|
 |verwijst naar|0..n|[Begrip](#TBegrip)|
-|normeert|0..1|[Handeling](#THandeling)|
 |beschrijft|0..n|[Begrip](#TBegrip)|
 |soort|1..1|[Bepalingsoorten](#TBepalingsoorten)|
 |beperkt|0..1|[Bepaling](#TBepaling)|
+|op grond van|1..1|[Fragment](#TFragment)|
+|grondslag|0..n|[Bepaling](#TBepaling)|
+|normeert|0..1|[Handeling](#THandeling)|
 
 ### Bron {#TBron}
 

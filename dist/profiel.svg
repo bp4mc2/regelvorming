@@ -15,19 +15,19 @@
         <stop stop-opacity="1" stop-color="rgb(232,238,247)" offset="0%"/>
         <stop stop-opacity="1" stop-color="rgb(183,201,227)" offset="100%"/>
       </linearGradient>
-      <linearGradient x1="145.5" gradientUnits="userSpaceOnUse" x2="254.5" y1="-49.8672" y2="14" id="linearGradient4" spreadMethod="reflect">
+      <linearGradient x1="784" gradientUnits="userSpaceOnUse" x2="931" y1="143.6328" y2="294.5" id="linearGradient4" spreadMethod="reflect">
         <stop stop-opacity="1" stop-color="rgb(232,238,247)" offset="0%"/>
         <stop stop-opacity="1" stop-color="rgb(183,201,227)" offset="100%"/>
       </linearGradient>
-      <linearGradient x1="421" gradientUnits="userSpaceOnUse" x2="543" y1="481.1328" y2="545" id="linearGradient5" spreadMethod="reflect">
+      <linearGradient x1="145.5" gradientUnits="userSpaceOnUse" x2="254.5" y1="-49.8672" y2="14" id="linearGradient5" spreadMethod="reflect">
         <stop stop-opacity="1" stop-color="rgb(232,238,247)" offset="0%"/>
         <stop stop-opacity="1" stop-color="rgb(183,201,227)" offset="100%"/>
       </linearGradient>
-      <linearGradient x1="442" gradientUnits="userSpaceOnUse" x2="522" y1="187.1328" y2="251" id="linearGradient6" spreadMethod="reflect">
+      <linearGradient x1="421" gradientUnits="userSpaceOnUse" x2="543" y1="481.1328" y2="545" id="linearGradient6" spreadMethod="reflect">
         <stop stop-opacity="1" stop-color="rgb(232,238,247)" offset="0%"/>
         <stop stop-opacity="1" stop-color="rgb(183,201,227)" offset="100%"/>
       </linearGradient>
-      <linearGradient x1="784" gradientUnits="userSpaceOnUse" x2="931" y1="143.6328" y2="294.5" id="linearGradient7" spreadMethod="reflect">
+      <linearGradient x1="442" gradientUnits="userSpaceOnUse" x2="522" y1="187.1328" y2="251" id="linearGradient7" spreadMethod="reflect">
         <stop stop-opacity="1" stop-color="rgb(232,238,247)" offset="0%"/>
         <stop stop-opacity="1" stop-color="rgb(183,201,227)" offset="100%"/>
       </linearGradient>
@@ -56,28 +56,28 @@
         <path d="M640 296 L740 296 L740 332.1328 L640 332.1328 L640 296 Z"/>
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath9">
-        <path d="M135.5 -49.8672 L264.5 -49.8672 L264.5 24 L135.5 24 L135.5 -49.8672 Z"/>
-      </clipPath>
-      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath10">
-        <path d="M135.5 -86 L264.5 -86 L264.5 -49.8672 L135.5 -49.8672 L135.5 -86 Z"/>
-      </clipPath>
-      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11">
-        <path d="M411 481.1328 L553 481.1328 L553 555 L411 555 L411 481.1328 Z"/>
-      </clipPath>
-      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath12">
-        <path d="M411 445 L553 445 L553 481.1328 L411 481.1328 L411 445 Z"/>
-      </clipPath>
-      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath13">
-        <path d="M432 187.1328 L532 187.1328 L532 261 L432 261 L432 187.1328 Z"/>
-      </clipPath>
-      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath14">
-        <path d="M432 151 L532 151 L532 187.1328 L432 187.1328 L432 151 Z"/>
-      </clipPath>
-      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath15">
         <path d="M774 143.6328 L941 143.6328 L941 304.5 L774 304.5 L774 143.6328 Z"/>
       </clipPath>
-      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath16">
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath10">
         <path d="M774 107.5 L941 107.5 L941 143.6328 L774 143.6328 L774 107.5 Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11">
+        <path d="M135.5 -49.8672 L264.5 -49.8672 L264.5 24 L135.5 24 L135.5 -49.8672 Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath12">
+        <path d="M135.5 -86 L264.5 -86 L264.5 -49.8672 L135.5 -49.8672 L135.5 -86 Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath13">
+        <path d="M411 481.1328 L553 481.1328 L553 555 L411 555 L411 481.1328 Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath14">
+        <path d="M411 445 L553 445 L553 481.1328 L411 481.1328 L411 445 Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath15">
+        <path d="M432 187.1328 L532 187.1328 L532 261 L432 261 L432 187.1328 Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath16">
+        <path d="M432 151 L532 151 L532 187.1328 L432 187.1328 L432 151 Z"/>
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath17">
         <path d="M182 78.5 L218 78.5 L218 94.6328 L182 94.6328 L182 78.5 Z"/>
@@ -153,11 +153,41 @@
       </a>
     </g>
     <g id="y.node.3">
+      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepalingsoorten" xlink:show="new">
+        <g text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,782,200.5)" image-rendering="optimizeQuality">
+          <image preserveAspectRatio="none" x="0" width="168" y="0" height="198" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAADGCAYAAABGtcueAAAErElEQVR4Xu3YW49V&#10;RRSF0UIuglwUSEBEBFEMFzVRFERFARG8/P//Y81UTuyQdDecbpIZMlYyHntvHr6z&#10;qjZjGGOMMcYYY4wx5t2dI9N7OxyFPexsJe28tcnD88Jj0/HpxPT+dBJ2kT4iraSZ&#10;tHPooW42Zh6el30wnZ0+nD6azsMu0kecm85Mp8aKNS0dWqSJM/Xn4XnRxenj6ep0&#10;bfoM9pBG0srlsdrJcst2PZRI84A8KHHml5Awb0xfTXenb6ZvYQ9fj9VKmrk+Vqg5&#10;fRNprowHmmzPHOvnxorzi7Gi/GH6afoF9vHzWK3cn+5NN8eKNJs0x/3WW3SzPXPn&#10;zGq+MVacednv0x/T8+lP2EX6iGfT4+nBWJHm6L8w1hbNEtxqEujxsS632Z5Z0dmc&#10;ifPF9Pf0D+wjnfw1VqiJNJv01nRpOj0OcMyn7KzgHO9Xxyo/2zObMy/9F97Ay+np&#10;9HC6M10Z65jPKb3VbO6f+TjKl1iO99wnsrrzy3j1HwB7yRbNcns01rLL0svyyym9&#10;1ewMNHeGfJHl0itQtrEJNEsuX/afjvU1L1AqCJRqAqWaQKkmUKoJlGoCpZpAqSZQ&#10;qgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRq&#10;AqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpA&#10;qSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCq&#10;CZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoC&#10;pZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCp&#10;JlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJ&#10;lGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKl&#10;mkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkm&#10;UKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqr21&#10;QPOQa2M9NA9/PgTKm0ugz6ZH073p6nRuHDDQE2M9JA+7Oz0c6yV5mUh5XWnlxfRk&#10;ejDdnq5MZ6djY8s5MlbdZ6bL063p/vTbWFv05Vihwn4SZ473X6fvpi+nS9Pp6ejY&#10;chJo/vjUdHG6PtYxn1/A4+npWC+FveTEfTJWnD+OdRLnynh+OjnWSb31bI75rOJs&#10;0ZtjRZpNmuM+94ncS2E3aSRL7fux4vx8rO2ZkzkndBbh1pM/zh0hpedjKZFmk+a4&#10;vzPWZTfBwm7SyO2xjvVszsSZ75p8gB8dhzA7I80mvTDWSz4Z678KIi+GV6WNfGDn&#10;gyjN5Fg/M/6P80Dbc+ds7qM57nMnzeU2sWarwl6yLdNKmsmSy7F+qHFuJg/MnTQP&#10;z0bNixIs7CetpJm3EuZukxfB6zLGGGOMMcYYY8w7Pf8BfHsbiarEeKoAAAAASUVO&#10;RK5CYII="/>
+          <rect x="784" y="117.5" transform="matrix(1,0,0,1,-776,-109.5)" clip-path="url(#clipPath9)" fill="url(#linearGradient4)" width="147" image-rendering="auto" rx="4" ry="4" height="177" stroke="none"/>
+          <rect x="784" y="117.5" transform="matrix(1,0,0,1,-776,-109.5)" clip-path="url(#clipPath10)" fill="rgb(183,201,227)" width="147" image-rendering="auto" rx="4" ry="4" height="177" stroke="none"/>
+          <rect stroke-linecap="butt" x="784" y="117.5" transform="matrix(1,0,0,1,-776,-109.5)" fill="none" width="147" image-rendering="auto" rx="4" ry="4" height="177" stroke-miterlimit="1.45"/>
+          <line stroke-linecap="butt" transform="matrix(1,0,0,1,-776,-109.5)" fill="none" x1="784" x2="931" y1="143.6328" image-rendering="auto" y2="143.6328" stroke-miterlimit="1.45"/>
+        </g>
+        <g>
+          <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
+            <text x="810.4873" xml:space="preserve" y="135.1016" stroke="none">Bepalingsoorten</text>
+          </g>
+        </g>
+        <g>
+          <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
+            <text x="788" xml:space="preserve" y="161.2344" stroke="none">- Rechtschepping</text>
+            <text x="788" xml:space="preserve" y="175.3672" stroke="none">- Rechtswege-bepaling</text>
+            <text x="788" xml:space="preserve" y="189.5" stroke="none">- Verplichting</text>
+            <text x="788" xml:space="preserve" y="203.6328" stroke="none">- Bevoegdheid</text>
+            <text x="788" xml:space="preserve" y="217.7656" stroke="none">- Voorwaarde</text>
+            <text x="788" xml:space="preserve" y="231.8984" stroke="none">- Attributie</text>
+            <text x="788" xml:space="preserve" y="246.0312" stroke="none">- Verbod</text>
+            <text x="788" xml:space="preserve" y="260.1641" stroke="none">- Delegatie</text>
+            <text x="788" xml:space="preserve" y="274.2969" stroke="none">- Begripsbepaling</text>
+            <text x="788" xml:space="preserve" y="288.4297" stroke="none">- Vrijstelling</text>
+          </g>
+        </g>
+      </a>
+    </g>
+    <g id="y.node.4">
       <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bron" xlink:show="new">
         <g text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,143.5,7)" image-rendering="optimizeQuality">
           <image preserveAspectRatio="none" x="0" width="130" y="0" height="111" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABvCAYAAAAg2RihAAADf0lEQVR4Xu3XaY9U&#10;ZRBH8cJhlWFkSUAcEUQxbJoACqKigCwu3//7WOdf6dgx4U1PT/omnkp+L7mX5Dld&#10;z50qx3Ecx3Ecx3Gcbc+J9tGaPS3C+plwRsc2PJwXnmyn2ul2pp3VznEO4Ew4G85o&#10;60GsNgAP52Uftwvtk3axXdLOcQ44aPvtXE0UnNnWYiACKuPhvOhK+7QdthvtCy0C&#10;Z8GZXKs5I36sbIutxMADeBARUBwB3GrftPvt2/adFuFhzZlwNjdrgmBrEwNX+pGG&#10;bcB1cFATwVc1h/99+7H9rMX4qeZMnrQH7XZNDGwGromNt8JqG/BNwKq5VRMBL/ut&#10;/d7etLfaOc4Br9uL9rQmBq6MyzVbgR/1RkMIp2o+PtgGrBw2ARG8a3+2v7QYnMcf&#10;NUEQA5vhTrvaztcRrgcKYqVwLRzWFMY2YBPw0r+1SO/bq/as3WvXa64HtvtGs/o+&#10;4CORL1KuBe4hVhEF/vc/oGVgK/BjfV7z4+VHzI+Z7b7RrIfAXcOXKR8lhrBsqxD4&#10;0fKXxOc1fz0Ywv+MISgMQWEICkNQGILCEBSGoDAEhSEoDEFhCApDUBiCwhAUhqAw&#10;BIUhKAxBYQgKQ1AYgsIQFIagMASFISgMQWEICkNQGILCEBSGoDAEhSEoDEFhCApD&#10;UBiCwhAUhqAwBIUhKAxBYQgKQ1AYgsIQFIagMASFISgMQWEICkNQGILCEBSGoDAE&#10;hSEoDEFhCApDUBiCwhAUhqAwBIUhKAxBYQgKQ1AYgsIQFIagMASFISgMQWEICkNQ&#10;GILi2ELgITdqHsrD35QhLBkhvG7P24N22A7qiCGcrnkID7vfntW8hJcZw/JwJu/a&#10;y/a03W3X24V2sjacEzUV7bdr7U570n6t2Qrva4LQchAB18Iv7VH7ul1t59tebTiE&#10;wD8+1660mzXXA6W9aK9qXqplYFO/rIngh5oNzpV+qZ2t2fAbz+p6YLWwFW7XxMBm&#10;4JrgHuK7QbvHWfAjfVwTwZc124CNzmbnh73x8I+5WyiKj0ZiYDNwTdyr+RghDO0e&#10;Z3G35jpgExAB33d88O/VFmY9BjbD5ZqXfFbzpwl4sXaHM+CDng9DzobrYL/+jeBI&#10;22B9Vt8LXBN8M/DxQRRsCS0Dv37OhLPhR8t1sNUIVsMD+Wbg4WwIXkQYWg7OhLM5&#10;lgA+NLxIy+M4juM4juM4jnMM8w+iT2wW+jLXngAAAABJRU5ErkJggg=="/>
-          <rect x="145.5" y="-76" transform="matrix(1,0,0,1,-137.5,84)" clip-path="url(#clipPath9)" fill="url(#linearGradient4)" width="109" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
-          <rect x="145.5" y="-76" transform="matrix(1,0,0,1,-137.5,84)" clip-path="url(#clipPath10)" fill="rgb(183,201,227)" width="109" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
+          <rect x="145.5" y="-76" transform="matrix(1,0,0,1,-137.5,84)" clip-path="url(#clipPath11)" fill="url(#linearGradient5)" width="109" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
+          <rect x="145.5" y="-76" transform="matrix(1,0,0,1,-137.5,84)" clip-path="url(#clipPath12)" fill="rgb(183,201,227)" width="109" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
           <rect stroke-linecap="butt" x="145.5" y="-76" transform="matrix(1,0,0,1,-137.5,84)" fill="none" width="109" image-rendering="auto" rx="4" ry="4" height="90" stroke-miterlimit="1.45"/>
           <line stroke-linecap="butt" transform="matrix(1,0,0,1,-137.5,84)" fill="none" x1="145.5" x2="254.5" y1="-49.8672" image-rendering="auto" y2="-49.8672" stroke-miterlimit="1.45"/>
         </g>
@@ -173,12 +203,12 @@
         </g>
       </a>
     </g>
-    <g id="y.node.4">
+    <g id="y.node.5">
       <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Handeling" xlink:show="new">
         <g text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,419,538)" image-rendering="optimizeQuality">
           <image preserveAspectRatio="none" x="0" width="143" y="0" height="111" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI8AAABvCAYAAADVJ5MRAAADmElEQVR4Xu3X+4tV&#10;ZRSH8aWjpjlOqeClyTTL8FKCWpql5v1S////03pYHDoEInznDLgPz4LPj7P3wPuw&#10;3n2qHMdxHMdxHMdxnM9jjrSja3a0WOvnyLke2vBwXnisHW8n2hftpBaJswPnyHly&#10;rhuPaLVpeDgv+7KdaV+1r9tZLRJnh722207VhMQ5bywgwqFMHs6LzrdLbb9dad9p&#10;sTg/zvFizbmyFNhKGwmIB/AgwqFSornWfmq32y/trhbr55pz5Dyv1kTEjUJAfKIc&#10;aNg6XFV7NeH8UBPMr+339qcW7Y+ac3zQ7rTrNQGxgbjC4u2z2jp847DSrtWEw8v+&#10;aq/a6/ZGi8TZ4WV72h7WBMR1dq5m+7A8oiGe4zUfU2wdVhsbh3Detg/tby0aZ/i+&#10;JiICYgPdaBfa6TrA1UV1rC6urP2aKtk6bBxe+o+2xrv2oj1qt9rlmquLmyea1fcO&#10;H8p8lXNlcUey8qj2//+Alovtw1J4XLMkWBYsDW6eaNbj4R7k65yPLOPZPqt4WA78&#10;Avu25leX8eiTjEcx41HMeBQzHsWMRzHjUcx4FDMexYxHMeNRzHgUMx7FjEcx41HM&#10;eBQzHsWMRzHjUcx4FDMexYxHMeNRzHgUMx7FjEcx41HMeBQzHsWMRzHjUcx4FDMe&#10;xYxHMeNRzHgUMx7FjEcx41HMeBQzHsWMRzHjUcx4FDMexYxHMeNRzHgUMx7FjEcx&#10;41HMeBQzHsWMRzHjUcx4FDMexYxHMeNRzHgUMx7FjEcx41HMeBQzHsWMRzHjUcx4&#10;FDMexYxHMeNRzHgUMx7FjEcx41HMeBQzHsWMR7FDi4eHXKl5KA9/XcazbYjnZXvc&#10;7rT9tlcHjOdEzUN42O32qOYlvMyAtgPn+LY9bw/bzXa5nWnHKpwjNeXttovtRnvQ&#10;ntVsn3c1EWnZCIcr60m7135sF9rptlPhEA9/fKqdb1drri7qfNpe1LxUy8Ut8rwm&#10;nN9qbhc+Uc62kzW3Tzyrq4sVxva5XhMQG4grjDuS7yAtE+fHMrhfE873NVuH24Zb&#10;hwUSD3/MvUeFfDgTEBuIK+xWzccVMWmZOL+bNVcVG4dw+Mblh9JObWDWA2IDnat5&#10;yTc1P+nAi7UsnBs/hPg45jy5qnbrv3AOtHXWZ/X9wxXGNxAfU4TENtJysWU4R86T&#10;5cBVtdFwVsMD+Qbi4WwiXkRMWjbOkfM8lGg+NrxI28FxHMdxHMdxHMf5bOZfcp/G&#10;oGAqG8MAAAAASUVORK5CYII="/>
-          <rect x="421" y="455" transform="matrix(1,0,0,1,-413,-447)" clip-path="url(#clipPath11)" fill="url(#linearGradient5)" width="122" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
-          <rect x="421" y="455" transform="matrix(1,0,0,1,-413,-447)" clip-path="url(#clipPath12)" fill="rgb(183,201,227)" width="122" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
+          <rect x="421" y="455" transform="matrix(1,0,0,1,-413,-447)" clip-path="url(#clipPath13)" fill="url(#linearGradient6)" width="122" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
+          <rect x="421" y="455" transform="matrix(1,0,0,1,-413,-447)" clip-path="url(#clipPath14)" fill="rgb(183,201,227)" width="122" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
           <rect stroke-linecap="butt" x="421" y="455" transform="matrix(1,0,0,1,-413,-447)" fill="none" width="122" image-rendering="auto" rx="4" ry="4" height="90" stroke-miterlimit="1.45"/>
           <line stroke-linecap="butt" transform="matrix(1,0,0,1,-413,-447)" fill="none" x1="421" x2="543" y1="481.1328" image-rendering="auto" y2="481.1328" stroke-miterlimit="1.45"/>
         </g>
@@ -194,12 +224,12 @@
         </g>
       </a>
     </g>
-    <g id="y.node.5">
+    <g id="y.node.6">
       <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling" xlink:show="new">
         <g text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,440,244)" image-rendering="optimizeQuality">
           <image preserveAspectRatio="none" x="0" width="101" y="0" height="111" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAABvCAYAAAD15w6pAAADbklEQVR4Xu2d2U5U&#10;URBFCxsQpEGBBERUEMUADomi4IQCMjj8//9YK5Ubu+0WyaWJ+2HvZD32OaTWqar7&#10;RoTjOI7jOI6jnbHkRg8dM0BvfajXtYXDuXA8mUgmk5vJlOmDmgD1oU7Ua+Ryms7g&#10;cC67lcwmt5M7ybzpg5rAXNJNpqMEUb+RiUEIxjmcixaTu8lq8iB5aAagLtRnOape&#10;PGK6aCRiOICDEIJ9ZKwnT5Od5EXy0gzwPKo+1GktSg6TBTGsgCuFLmFkzUUJeRwl&#10;4k3yLvlohvIhqj67ybNkI0oMHcMoa90tTZewQ2jB9SghXPYl+ZqcJKemD2oCx8lB&#10;shclhrG2ENUtPPZWQcpE1LKiS2hFOgQhZ8n35IcZCrX5FiUHMXTMZrKUzMQVRhg2&#10;aTVG12qUbbqEDuHSn+afnCdHyX6ynaxEjTAmUKs0+4QFz9cEo4tZSYvyGv78A8wg&#10;dAuP+H3Uo+Zx88iZQK3SK4V5yFcFS8xSLk8jhcfMF9n9qK8wS/mPWIogliKIpQhi&#10;KYJYiiCWIoilCGIpgliKIJYiiKUIYimCWIogliKIpQhiKYJYiiCWIoilCGIpgliK&#10;IJYiiKUIYimCWIogliKIpQhiKYJYiiCWIoilCGIpgliKIJYiiKUIYimCWIogliKI&#10;pQhiKYJYiiCWIoilCGIpgliKIJYiiKUIYimCWIogliKIpQhiKYJYiiCWIoilCGIp&#10;gliKIJYiiKUIYimCWIogliKIpQhiKYJYiiCWIoilCGIpgliKIJYiiKUIYimCWIog&#10;liKIpQhiKYJYiiDXJoVD+H/0HMrhJ2EplwUpxzHi/0c/GXUIh+0k+1GXcJnFXAz1&#10;OUsOk71kK1lJZpPxaJmxKKPdZDnZTHaTz1Hdch4lxwwHIYyuT8mr5EmylMwknWgZ&#10;pPDj6WQxWYsaYVg/SI6iLjWDME0Oo4S8jZoyrID5ZCpqCrVOM8JoObplI0oMHcMo&#10;Y1ayZ0w/1IXH+zpKyKOoLmHqMH148K3Dj5l/2GXhI4aOYZRtRy0vJJl+qMtW1Mii&#10;QxDCbubDqRMjSK8YOmYh6pJ7UZ94wMWmoB58GLHUqRMjqxu/hVypS3rT7BdGGTuG&#10;ZYUguscMQldQH+rEY2ZkjVRIEw5kx3A4ncNFSDLDoT7U6Vpk/C1cZC7GcRzHcRzH&#10;kc8v01dm/rz4PeoAAAAASUVORK5CYII="/>
-          <rect x="442" y="161" transform="matrix(1,0,0,1,-434,-153)" clip-path="url(#clipPath13)" fill="url(#linearGradient6)" width="80" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
-          <rect x="442" y="161" transform="matrix(1,0,0,1,-434,-153)" clip-path="url(#clipPath14)" fill="rgb(183,201,227)" width="80" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
+          <rect x="442" y="161" transform="matrix(1,0,0,1,-434,-153)" clip-path="url(#clipPath15)" fill="url(#linearGradient7)" width="80" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
+          <rect x="442" y="161" transform="matrix(1,0,0,1,-434,-153)" clip-path="url(#clipPath16)" fill="rgb(183,201,227)" width="80" image-rendering="auto" rx="4" ry="4" height="90" stroke="none"/>
           <rect stroke-linecap="butt" x="442" y="161" transform="matrix(1,0,0,1,-434,-153)" fill="none" width="80" image-rendering="auto" rx="4" ry="4" height="90" stroke-miterlimit="1.45"/>
           <line stroke-linecap="butt" transform="matrix(1,0,0,1,-434,-153)" fill="none" x1="442" x2="522" y1="187.1328" image-rendering="auto" y2="187.1328" stroke-miterlimit="1.45"/>
         </g>
@@ -212,36 +242,6 @@
           <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
             <text x="446" xml:space="preserve" y="204.7344" stroke="none"> </text>
             <text x="446" xml:space="preserve" y="218.8672" stroke="none">                  </text>
-          </g>
-        </g>
-      </a>
-    </g>
-    <g id="y.node.6">
-      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepalingsoorten" xlink:show="new">
-        <g text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,782,200.5)" image-rendering="optimizeQuality">
-          <image preserveAspectRatio="none" x="0" width="168" y="0" height="198" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAADGCAYAAABGtcueAAAErElEQVR4Xu3YW49V&#10;RRSF0UIuglwUSEBEBFEMFzVRFERFARG8/P//Y81UTuyQdDecbpIZMlYyHntvHr6z&#10;qjZjGGOMMcYYY4wx5t2dI9N7OxyFPexsJe28tcnD88Jj0/HpxPT+dBJ2kT4iraSZ&#10;tHPooW42Zh6el30wnZ0+nD6azsMu0kecm85Mp8aKNS0dWqSJM/Xn4XnRxenj6ep0&#10;bfoM9pBG0srlsdrJcst2PZRI84A8KHHml5Awb0xfTXenb6ZvYQ9fj9VKmrk+Vqg5&#10;fRNprowHmmzPHOvnxorzi7Gi/GH6afoF9vHzWK3cn+5NN8eKNJs0x/3WW3SzPXPn&#10;zGq+MVacednv0x/T8+lP2EX6iGfT4+nBWJHm6L8w1hbNEtxqEujxsS632Z5Z0dmc&#10;ifPF9Pf0D+wjnfw1VqiJNJv01nRpOj0OcMyn7KzgHO9Xxyo/2zObMy/9F97Ay+np&#10;9HC6M10Z65jPKb3VbO6f+TjKl1iO99wnsrrzy3j1HwB7yRbNcns01rLL0svyyym9&#10;1ewMNHeGfJHl0itQtrEJNEsuX/afjvU1L1AqCJRqAqWaQKkmUKoJlGoCpZpAqSZQ&#10;qgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRq&#10;AqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpA&#10;qSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCq&#10;CZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoC&#10;pZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCp&#10;JlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJ&#10;lGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKl&#10;mkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkm&#10;UKoJlGoCpZpAqSZQqgmUagKlmkCpJlCqCZRqAqWaQKkmUKoJlGoCpZpAqSZQqr21&#10;QPOQa2M9NA9/PgTKm0ugz6ZH073p6nRuHDDQE2M9JA+7Oz0c6yV5mUh5XWnlxfRk&#10;ejDdnq5MZ6djY8s5MlbdZ6bL063p/vTbWFv05Vihwn4SZ473X6fvpi+nS9Pp6ejY&#10;chJo/vjUdHG6PtYxn1/A4+npWC+FveTEfTJWnD+OdRLnynh+OjnWSb31bI75rOJs&#10;0ZtjRZpNmuM+94ncS2E3aSRL7fux4vx8rO2ZkzkndBbh1pM/zh0hpedjKZFmk+a4&#10;vzPWZTfBwm7SyO2xjvVszsSZ75p8gB8dhzA7I80mvTDWSz4Z678KIi+GV6WNfGDn&#10;gyjN5Fg/M/6P80Dbc+ds7qM57nMnzeU2sWarwl6yLdNKmsmSy7F+qHFuJg/MnTQP&#10;z0bNixIs7CetpJm3EuZukxfB6zLGGGOMMcYYY8w7Pf8BfHsbiarEeKoAAAAASUVO&#10;RK5CYII="/>
-          <rect x="784" y="117.5" transform="matrix(1,0,0,1,-776,-109.5)" clip-path="url(#clipPath15)" fill="url(#linearGradient7)" width="147" image-rendering="auto" rx="4" ry="4" height="177" stroke="none"/>
-          <rect x="784" y="117.5" transform="matrix(1,0,0,1,-776,-109.5)" clip-path="url(#clipPath16)" fill="rgb(183,201,227)" width="147" image-rendering="auto" rx="4" ry="4" height="177" stroke="none"/>
-          <rect stroke-linecap="butt" x="784" y="117.5" transform="matrix(1,0,0,1,-776,-109.5)" fill="none" width="147" image-rendering="auto" rx="4" ry="4" height="177" stroke-miterlimit="1.45"/>
-          <line stroke-linecap="butt" transform="matrix(1,0,0,1,-776,-109.5)" fill="none" x1="784" x2="931" y1="143.6328" image-rendering="auto" y2="143.6328" stroke-miterlimit="1.45"/>
-        </g>
-        <g>
-          <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
-            <text x="810.4873" xml:space="preserve" y="135.1016" stroke="none">Bepalingsoorten</text>
-          </g>
-        </g>
-        <g>
-          <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
-            <text x="788" xml:space="preserve" y="161.2344" stroke="none">- Verbod</text>
-            <text x="788" xml:space="preserve" y="175.3672" stroke="none">- Rechtschepping</text>
-            <text x="788" xml:space="preserve" y="189.5" stroke="none">- Delegatie</text>
-            <text x="788" xml:space="preserve" y="203.6328" stroke="none">- Begripsbepaling</text>
-            <text x="788" xml:space="preserve" y="217.7656" stroke="none">- Rechtswege-bepaling</text>
-            <text x="788" xml:space="preserve" y="231.8984" stroke="none">- Verplichting</text>
-            <text x="788" xml:space="preserve" y="246.0312" stroke="none">- Bevoegdheid</text>
-            <text x="788" xml:space="preserve" y="260.1641" stroke="none">- Vrijstelling</text>
-            <text x="788" xml:space="preserve" y="274.2969" stroke="none">- Voorwaarde</text>
-            <text x="788" xml:space="preserve" y="288.4297" stroke="none">- Attributie</text>
           </g>
         </g>
       </a>
@@ -275,7 +275,7 @@
         </g>
       </a>
     </g>
-    <g id="y.edge.10">
+    <g id="y.edge.13">
       <a target="_blank" xlink:type="simple" xlink:href="rdfs:subClassOf" xlink:show="new">
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
           <path fill="none" d="M690 455.0017 L690 411.0183"/>
@@ -298,6 +298,20 @@
         </g>
       </a>
     </g>
+    <g id="y.edge.2">
+      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling.invullingVan http://bp4mc2.org/regelvorming#invullingVan" xlink:show="new">
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
+          <path fill="none" d="M441.9922 227.427 L314 227.427 L314 300 L459.5 300 L459.5 259.04"/>
+          <path d="M459.5 251.04 L454.5 263.04 L459.5 260.04 L464.5 263.04 Z" stroke="none"/>
+        </g>
+        <g>
+          <g stroke-linecap="butt" transform="matrix(1,0,0,1,6,91)" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
+            <rect x="332.5371" width="108.4258" height="18.1328" y="290.9336" stroke="none"/>
+            <text fill="black" x="334.5371" xml:space="preserve" y="304.5352" font-family="sans-serif" stroke="none">invulling van [0,n]</text>
+          </g>
+        </g>
+      </a>
+    </g>
     <g id="y.edge.6">
       <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling.beperkt http://bp4mc2.org/regelvorming#beperkt" xlink:show="new">
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
@@ -312,16 +326,16 @@
         </g>
       </a>
     </g>
-    <g id="y.edge.2">
-      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling.opGrondVan http://purl.org/dc/terms/source" xlink:show="new">
+    <g id="y.edge.8">
+      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling.grondslag http://bp4mc2.org/regelvorming#grondslag" xlink:show="new">
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
-          <path fill="none" d="M442.0339 206 L272.0244 206"/>
-          <path d="M264.0244 206 L276.0244 211 L273.0244 206 L276.0244 201 Z" stroke="none"/>
+          <path fill="none" d="M442.0082 227.427 L325.5 227.427 L325.5 277 L461.514 277 L461.514 258.989"/>
+          <path d="M461.514 250.989 L456.514 262.989 L461.514 259.989 L466.514 262.989 Z" stroke="none"/>
         </g>
         <g>
           <g stroke-linecap="butt" transform="matrix(1,0,0,1,6,91)" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-            <rect x="296.9297" width="112.1406" height="18.1328" y="196.9336" stroke="none"/>
-            <text fill="black" x="298.9297" xml:space="preserve" y="210.5352" font-family="sans-serif" stroke="none">op grond van [1,1]</text>
+            <rect x="347.0607" width="92.8926" height="18.1328" y="267.9336" stroke="none"/>
+            <text fill="black" x="349.0607" xml:space="preserve" y="281.5352" font-family="sans-serif" stroke="none">grondslag [0,n]</text>
           </g>
         </g>
       </a>
@@ -341,15 +355,15 @@
       </a>
     </g>
     <g id="y.edge.4">
-      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling.normeert" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling.beschrijft http://purl.org/dc/terms/subject" xlink:show="new">
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
-          <path fill="none" d="M482 250.9685 L482 446.9785"/>
-          <path d="M482 454.9785 L487 442.9785 L482 445.9785 L477 442.9785 Z" stroke="none"/>
+          <path fill="none" d="M521.9902 233.8778 L643.4242 318.5313"/>
+          <path d="M649.9869 323.1063 L643.0022 312.1421 L642.6039 317.9594 L637.2834 320.3455 Z" stroke="none"/>
         </g>
         <g>
           <g stroke-linecap="butt" transform="matrix(1,0,0,1,6,91)" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-            <rect x="437.8623" width="88.2754" height="18.1328" y="343.9336" stroke="none"/>
-            <text fill="black" x="439.8623" xml:space="preserve" y="357.5352" font-family="sans-serif" stroke="none">normeert [0,1]</text>
+            <rect x="541.3438" width="89.3125" height="18.1328" y="269.4336" stroke="none"/>
+            <text fill="black" x="543.3438" xml:space="preserve" y="283.0352" font-family="sans-serif" stroke="none">beschrijft [0,n]</text>
           </g>
         </g>
       </a>
@@ -369,6 +383,34 @@
       </a>
     </g>
     <g id="y.edge.7">
+      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling.opGrondVan http://purl.org/dc/terms/source" xlink:show="new">
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
+          <path fill="none" d="M442.0339 206 L272.0244 206"/>
+          <path d="M264.0244 206 L276.0244 211 L273.0244 206 L276.0244 201 Z" stroke="none"/>
+        </g>
+        <g>
+          <g stroke-linecap="butt" transform="matrix(1,0,0,1,6,91)" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
+            <rect x="296.9297" width="112.1406" height="18.1328" y="196.9336" stroke="none"/>
+            <text fill="black" x="298.9297" xml:space="preserve" y="210.5352" font-family="sans-serif" stroke="none">op grond van [1,1]</text>
+          </g>
+        </g>
+      </a>
+    </g>
+    <g id="y.edge.9">
+      <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Bepaling.normeert" xlink:show="new">
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
+          <path fill="none" d="M482 250.9685 L482 446.9785"/>
+          <path d="M482 454.9785 L487 442.9785 L482 445.9785 L477 442.9785 Z" stroke="none"/>
+        </g>
+        <g>
+          <g stroke-linecap="butt" transform="matrix(1,0,0,1,6,91)" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
+            <rect x="437.8623" width="88.2754" height="18.1328" y="343.9336" stroke="none"/>
+            <text fill="black" x="439.8623" xml:space="preserve" y="357.5352" font-family="sans-serif" stroke="none">normeert [0,1]</text>
+          </g>
+        </g>
+      </a>
+    </g>
+    <g id="y.edge.10">
       <a target="_blank" xlink:type="simple" xlink:href="http://bp4mc2.org/regelvorming/shapes#Fragment.onderdeelVan http://purl.org/dc/terms/isPartOf" xlink:show="new">
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
           <path fill="none" d="M200 161.0128 L200 110.5"/>
@@ -382,7 +424,7 @@
         </g>
       </a>
     </g>
-    <g id="y.edge.8">
+    <g id="y.edge.11">
       <a target="_blank" xlink:type="simple" xlink:href="LOGIC" xlink:show="new">
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
           <path fill="none" d="M200 72.5 L200 22.0033"/>
@@ -390,7 +432,7 @@
         </g>
       </a>
     </g>
-    <g id="y.edge.9">
+    <g id="y.edge.12">
       <a target="_blank" xlink:type="simple" xlink:href="LOGIC" xlink:show="new">
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,6,91)" stroke-linecap="butt">
           <path fill="none" d="M180 87.5 L61.5 87.5 L61.5 206 L127.9911 206"/>

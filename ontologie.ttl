@@ -73,6 +73,8 @@ was:Bepaling a sh:NodeShape;
   sh:property was:Bepaling.normeert;
   sh:property was:Bepaling.soort;
   sh:property was:Bepaling.beperkt;
+  sh:property was:Bepaling.invullingVan;
+  sh:property was:Bepaling.grondslag;
   sh:property was:Bepaling.verwijstNaar;
   sh:property was:Bepaling.beschrijft;
 .
@@ -100,6 +102,16 @@ was:Bepaling.beperkt a sh:PropertyShape;
   sh:path wa:beperkt;
   sh:class wa:Bepaling;
   sh:maxCount 1;
+.
+was:Bepaling.invullingVan a sh:PropertyShape;
+  rdfs:label "invulling van";
+  sh:path wa:invullingVan;
+  sh:class wa:Bepaling;
+.
+was:Bepaling.grondslag a sh:PropertyShape;
+  rdfs:label "grondslag";
+  sh:path wa:grondslag;
+  sh:class wa:Bepaling;
 .
 was:Bepaling.verwijstNaar a sh:PropertyShape;
   rdfs:label "verwijst naar";
