@@ -81,7 +81,7 @@ body:has(input[name=color-scheme][value=light]:checked),head:not(:has(meta[name=
 body:has(input[name=color-scheme][value=dark]:checked){color-scheme:dark}
 </style>
 <meta name="color-scheme" content="light">
-<meta name="description" content="Dit document beschrijft hoe juridische regels gevormd kunnen worden. Daarvoor geeft dit document een aantal begrippen en beschrijft hoe deze begrippen in samenhangt gebruikt kunnen worden om juridische regels te vormen: het juridisch grammatica.">
+<meta name="description" content="Dit document beschrijft hoe juridische regels gevormd kunnen worden. Daarvoor geeft dit document een aantal begrippen en beschrijft hoe deze begrippen in samenhangt gebruikt kunnen worden om juridische regels te vormen: een model voor het vormen van regels.">
 <style>
 .hljs,body:has(input[name=color-scheme][value=light]:checked) .hljs,head:not(:has(meta[name=color-scheme][content~=dark]))+body .hljs{--base:#fafafa;--mono-1:#383a42;--mono-2:#686b77;--mono-3:#717277;--hue-1:#0b76c5;--hue-2:#336ae3;--hue-3:#a626a4;--hue-4:#42803c;--hue-5:#ca4706;--hue-5-2:#c91243;--hue-6:#986801;--hue-6-2:#9a6a01}
 @media (prefers-color-scheme:dark){
@@ -217,13 +217,15 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
     </p>
     <hr title="Separator for header">
   </div>
-    <section id="abstract" data-format="markdown" class="introductory"><h2>Samenvatting</h2><p>Dit document beschrijft hoe juridische regels gevormd kunnen worden. Daarvoor geeft dit document een aantal begrippen en beschrijft hoe deze begrippen in samenhangt gebruikt kunnen worden om juridische regels te vormen: het juridisch grammatica.</p>
+    <section id="abstract" data-format="markdown" class="introductory"><h2>Samenvatting</h2><p>Dit document beschrijft hoe juridische regels gevormd kunnen worden. Daarvoor geeft dit document een aantal begrippen en beschrijft hoe deze begrippen in samenhangt gebruikt kunnen worden om juridische regels te vormen: een model voor het vormen van regels.</p>
+<p>Het woord "regel" wordt op veel verschillende manieren gebruikt. Soms wordt letterlijk een "regel" bedoelt, zoals die in een wettekst staat (bijvoorbeeld de eerste regel van de Grondwet: "Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld."). Maar zo'n letterlijke regel "doet" niks. Het zijn letters op een scherm, op een stuk papier of op de gevel van een pand. Door interpretatie van die letterlijke regels ontstaat begrip wat er wordt bedoeld met die regel, wat je zou mogen of moeten doen. En door implementatie in processen, gegevens en regel(uitvoering) ontstaat daadwerkelijk gedrag dat voldoet aan die letterlijke tekst. Andersom ontstaat zo'n "regel" niet vanuit het niets. Er gaat een vormende fase aan vooraf waarin het slotstuk de codificering van de regel in tekst is.</p>
+<p>Dit document biedt een model om die totstandkoming van idee tot letterlijke tekst op een gestructureerde manier te vormen. En weer terug: als analyse-instrument van de letterlijke tekst en de totstandkoming van de specificatie voor processen, gegevens en regels. Dit document focust op het eerste deel: de analyse van wet- en regelgeving en de regelvorming voorafgaand aan de codificering in tekst.</p>
 <p>De opbouw van dit document is als volgt:</p>
 <ul>
 <li>Het eerste hoofdstuk begint met een <a href="#voorbeeldtoepassing">voorbeeldtoepassing</a> hoe regelvorming werkt als analyse-instrument. Hiermee wordt gelijk de praktische inzet van regelvorming aangetoond.</li>
 <li>Het tweede hoofdstuk geeft een <a href="#regelvorming">uitleg</a> van regelvorming. Voor degenen die eerst de uitleg wensen, en daarna pas het voorbeeld, kunnen direct naar de uitleg gaan.</li>
 <li>Het derde hoofdstuk geeft alle gebruikte <a href="#begrippen">begrippen</a> en hun definities. Dit dient vooral als naslagwerk en kan gebruikt worden bij het lezen van de eerste twee hoofdstukken.</li>
-<li>Het vierde hoofdstuk geeft het <a href="#toepassingsprofiel">toepassingsprofiel</a>, het grammatica dat wordt toegepast in het eerste hoofdstuk. Dit hoofdstuk geeft inzicht van wat er met regelvorming precies wordt vastgelegd. Het heet een toepassingsprofiel, omdat het (grotendeels) is gebaseerd op bestaande vocabulaires, zoals onder meer ELI, SKOS en ODRL.</li>
+<li>Het vierde hoofdstuk geeft het <a href="#toepassingsprofiel">toepassingsprofiel</a>, het model van de gestructureerde opzet die wordt toegepast in het eerste hoofdstuk. Dit hoofdstuk geeft inzicht van wat er met regelvorming precies wordt vastgelegd. Het heet een toepassingsprofiel, omdat het (grotendeels) is gebaseerd op bestaande vocabulaires, zoals onder meer ELI, SKOS en ODRL.</li>
 </ul>
 <p>De kernbegrippen zijn:</p>
 <ul>

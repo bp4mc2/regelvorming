@@ -32,13 +32,13 @@ doc:Artikel1Pw a eli:LegalResourceSubdivision;
   dct:isPartOf doc:Participatiewet;
 .
 doc:Artikel1subbPw a eli:LegalResourceSubdivision;
-  rdfs:label "Artikel 1 sub b";
+  rdfs:label "Artikel 1 onder b";
   rdfs:comment "college: het college van burgemeester en wethouders, bedoeld in artikel 40, eerste lid;";
   dct:isPartOf doc:Artikel1Pw;
   eli:cites doc:Artikel40Pw;
 .
 doc:Artikel1submPw a eli:LegalResourceSubdivision;
-  rdfs:label "Artikel 1 sub m";
+  rdfs:label "Artikel 1 onder m";
   rdfs:comment "pensioengerechtigde leeftijd: pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;";
   dct:isPartOf doc:Artikel1Pw;
 #  eli:cites doc:Artikel7alid1AOW;
@@ -308,11 +308,11 @@ doc:Artikel1ViitU a eli:LegalResourceSubdivision;
   dct:isPartOf doc:VerordeningIITUtrecht;
 .
 doc:Artikel1subdViitU a eli:LegalResourceSubdivision;
-  rdfs:label "Artikel 1 sub d ViitU";
+  rdfs:label "Artikel 1 onder d ViitU";
   dct:isPartOf doc:Artikel1ViitU;
 .
 doc:Artikel1subeViitU a eli:LegalResourceSubdivision;
-  rdfs:label "Artikel 1 sub e ViitU";
+  rdfs:label "Artikel 1 onder e ViitU";
   dct:isPartOf doc:Artikel1ViitU;
 .
 
