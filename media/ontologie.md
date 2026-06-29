@@ -9,6 +9,7 @@
 |URI|http://bp4mc2.org/regelvorming#Actor|
 |-|-|
 |Definitie|Een persoon die iets doet|
+|Specialisatie van|[Begrip](#TBegrip)|
 
 |Eigenschap|Kardinaliteit|Datatype/klasse|
 |----------|-------------|---------------|
