@@ -31,3 +31,65 @@ function markupNotes() {
     }
   }
 }
+
+async function legislationPostProcessor(conf, doc) {
+  const blocks = doc.querySelectorAll("pre.legislation");
+
+  for (const block of blocks) {
+    const container = doc.createElement("div");
+    container.className = "legislation";
+
+    const lines = block.textContent
+      .replace(/\r\n/g, "\n")
+      .split("\n")
+      .filter(line => line.trim());
+
+    for (const line of lines) {
+      let match;
+
+      // lid: 1. ... or 1 ...
+      if ((match = line.match(/^(\d+)\.?\s+(.*)$/))) {
+        const p = doc.createElement("p");
+        p.className = "lid";
+
+        const nr = doc.createElement("span");
+        nr.className = "nr";
+        nr.textContent = `${match[1]}.`;
+
+        p.append(nr, document.createTextNode(match[2]));
+        container.append(p);
+        continue;
+      }
+
+      // onderdeel: "  a. ..."
+      if ((match = line.match(/^\s+([a-z])\.\s+(.*)$/i))) {
+        const p = doc.createElement("p");
+        p.className = "onderdeel";
+
+        const nr = doc.createElement("span");
+        nr.className = "nr";
+        nr.textContent = `${match[1]}.`;
+
+        p.append(nr, document.createTextNode(match[2]));
+        container.append(p);
+        continue;
+      }
+
+      // Everything else is considered none numbered item (typically: the preamble)
+      const p = doc.createElement("p");
+      p.className = "preamble";
+      p.textContent = line.trim();
+      container.append(p);
+
+      // continuation line
+      const last = container.lastElementChild;
+      if (last) {
+        last.append(
+          document.createTextNode(` ${line.trim()}`)
+        );
+      }
+    }
+
+    block.replaceWith(container);
+  }
+}

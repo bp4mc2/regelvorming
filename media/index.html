@@ -8,6 +8,45 @@
       class="remove"
       defer
     ></script>
+    <style>
+      .legislation {
+         margin: 1em 0;
+         padding: 0.5em 1em;
+         background: #eef6ff;
+         border-left: 4px solid #5b9bd5;
+         font-family: Arial, Verdana, sans-serif;
+         font-size: 0.95em;
+         line-height: 1.5;
+      }
+
+      .legislation .lid,
+      .legislation .onderdeel {
+        margin: 0.25em 0;
+      }
+
+      .legislation .lid {
+        padding-left: 2em;
+        text-indent: -1em;
+      }
+
+      .legislation .onderdeel {
+        padding-left: 3em;
+        text-indent: -1em;
+      }
+
+      .legislation .nr {
+        display: inline-block;
+        font-weight: normal;
+      }
+
+      .legislation .lid .nr {
+        width: 1em;
+      }
+
+      .legislation .onderdeel .nr {
+        width: 1em;
+      }
+    </style>
     <script src="postprocess.js" class="remove"></script>
     <script class="remove">
       // All config options at https://respec.org/docs/
@@ -18,7 +57,7 @@
         subtitle: "Begrippen en model",
         //Comment publishDate to default to current date
         //publishDate: "2026-06-22",
-        postProcess: [markupDefTables, markupNotes],
+        postProcess: [markupDefTables, markupNotes, legislationPostProcessor],
         latestVersion: "https://bp4mc2.org/regelvorming",
         editors: [{ name: "Werkgroep"}],
         authors: [
