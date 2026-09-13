@@ -8,65 +8,29 @@ PREFIX sh:   <http://www.w3.org/ns/shacl#>
 PREFIX xs:   <http://www.w3.org/2001/XMLSchema>
 PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
 
-<urn:md5:b5b45d7d6e4c39bc579d30615eab58c3>
-        rdf:first  eli:LegalResourceSubdivision;
-        rdf:rest   () .
-
-<urn:md5:378cbeb43cab8da878d696c97a7bdd15>
-        rdf:first  eli:LegalResourceSubdivision;
-        rdf:rest   () .
-
-eli:cites  rdf:type  owl:ObjectProperty;
-        rdfs:label  "cites" .
-
-eli:realizes  rdf:type  owl:ObjectProperty;
-        rdfs:label  "realizes" .
-
-dct:isPartOf  rdf:type  owl:ObjectProperty;
-        rdfs:label  "isPartOf" .
-
-rdf:type  rdf:type  owl:ObjectProperty;
-        rdfs:label  "type" .
-
-dct:title  rdf:type  owl:DatatypeProperty;
-        rdfs:label  "title" .
-
-cnt:chars  rdf:type  owl:DatatypeProperty;
-        rdfs:label  "chars" .
-
-eli:number  rdf:type  owl:DatatypeProperty;
-        rdfs:label  "number" .
-
-eli:position  rdf:type  owl:DatatypeProperty;
-        rdfs:label  "position" .
-
 eli:LegalExpression  rdf:type  sh:NodeShape , rdfs:Class;
-        rdfs:label      "LegalExpression";
+        rdfs:label      "eli:LegalExpression";
         sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "title";
+                          rdfs:label   "dct:title";
                           sh:datatype  xsd:string;
                           sh:maxCount  1;
-                          sh:minCount  0;
                           sh:nodeKind  sh:Literal;
                           sh:path      dct:title
                         ];
         sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "cites";
+                          rdfs:label   "eli:cites";
                           sh:class     eli:LegalExpression;
-                          sh:maxCount  33;
-                          sh:minCount  0;
                           sh:path      eli:cites
                         ];
         sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "position";
-                          sh:datatype  xsd:string;
+                          rdfs:label   "eli:position";
+                          sh:datatype  xsd:integer;
                           sh:maxCount  1;
-                          sh:minCount  0;
                           sh:nodeKind  sh:Literal;
                           sh:path      eli:position
                         ];
         sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "realizes";
+                          rdfs:label   "eli:realizes";
                           sh:maxCount  1;
                           sh:minCount  1;
                           sh:node      [ sh:xone  ( eli:LegalResource eli:LegalResourceSubdivision )
@@ -74,40 +38,26 @@ eli:LegalExpression  rdf:type  sh:NodeShape , rdfs:Class;
                           sh:path      eli:realizes
                         ];
         sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "number";
+                          rdfs:label   "eli:number";
                           sh:datatype  xsd:string;
                           sh:maxCount  1;
-                          sh:minCount  0;
                           sh:nodeKind  sh:Literal;
                           sh:path      eli:number
                         ];
         sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "chars";
+                          rdfs:label   "cnt:chars";
                           sh:datatype  xsd:string;
                           sh:maxCount  1;
-                          sh:minCount  0;
                           sh:nodeKind  sh:Literal;
                           sh:path      cnt:chars
-                        ];
-        sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "type";
-                          sh:maxCount  1;
-                          sh:minCount  1;
-                          sh:path      rdf:type
                         ];
         sh:targetClass  eli:LegalExpression .
 
 eli:LegalResourceSubdivision
         rdf:type        sh:NodeShape , rdfs:Class;
-        rdfs:label      "LegalResourceSubdivision";
+        rdfs:label      "eli:LegalResourceSubdivision";
         sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "type";
-                          sh:maxCount  1;
-                          sh:minCount  1;
-                          sh:path      rdf:type
-                        ];
-        sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "isPartOf";
+                          rdfs:label   "dct:isPartOf";
                           sh:maxCount  1;
                           sh:minCount  1;
                           sh:node      [ sh:xone  ( eli:LegalResource eli:LegalResourceSubdivision )
@@ -117,11 +67,5 @@ eli:LegalResourceSubdivision
         sh:targetClass  eli:LegalResourceSubdivision .
 
 eli:LegalResource  rdf:type  sh:NodeShape , rdfs:Class;
-        rdfs:label      "LegalResource";
-        sh:property     [ rdf:type     sh:PropertyShape;
-                          rdfs:label   "type";
-                          sh:maxCount  1;
-                          sh:minCount  1;
-                          sh:path      rdf:type
-                        ];
+        rdfs:label      "eli:LegalResource";
         sh:targetClass  eli:LegalResource .
